@@ -1,10 +1,1332 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gestamp — Noticias y prensa</title>
     <link>https://www.gestamp.com/Medios/Prensa</link>
     <description>Noticias y comunicados publicados en la portada y en la sección de prensa de Gestamp.</description>
     <language>es</language>
-    <atom:link href="https://raw.githubusercontent.com/plis2100/gestamp-noticias-rss/main/rss.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Sun, 06 Sep 2026 18:36:46 +0000</lastBuildDate>
+    <generator>GitHub Actions RSS Generator</generator>
+    <ns0:link href="https://raw.githubusercontent.com/plis2100/gestamp-noticias-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gestamp factura 5.794 millones en el primer semestre y avanza en el cumplimiento de sus previsiones anuales El volumen de deuda neta a cierre de junio fue un 17% menor que un año antes gracias al mantenimiento de las iniciativas de eficiencia, control de costes y refuerzo de la solidez financiera</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2026/Gestamp-factura-5-794-millones-en-el-primer-semestre-y-avanza-en-el-cumplimiento-de-sus-previsiones</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2026/Gestamp-factura-5-794-millones-en-el-primer-semestre-y-avanza-en-el-cumplimiento-de-sus-previsiones</guid>
+      <pubDate>Thu, 30 Jul 2026 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;El volumen de deuda neta a cierre de junio fue un 17% menor que un año antes gracias al mantenimiento de las iniciativas de eficiencia, control de costes y refuerzo de la solidez financiera&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Portada de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2026/Gestamp-factura-5-794-millones-en-el-primer-semestre-y-avanza-en-el-cumplimiento-de-sus-previsiones"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2026/Resultados%20H1%202026/Gestamp_1H_2026-copia.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp refuerza su apuesta por Brasil con la apertura en Piracicaba de su octava planta en el país La instalación, inaugurada hoy, ha iniciado sus operaciones recientemente y dispone de una superficie de 16.500 m2 ampliable hasta los 40.000 m2</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2026/Gestamp-refuerza-su-apuesta-por-Brasil-con-la-apertura-en-Piracicaba-de-su-octava-planta-en-el-pais</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2026/Gestamp-refuerza-su-apuesta-por-Brasil-con-la-apertura-en-Piracicaba-de-su-octava-planta-en-el-pais</guid>
+      <pubDate>Tue, 16 Jun 2026 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;La instalación, inaugurada hoy, ha iniciado sus operaciones recientemente y dispone de una superficie de 16.500 m2 ampliable hasta los 40.000 m2&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Portada de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2026/Gestamp-refuerza-su-apuesta-por-Brasil-con-la-apertura-en-Piracicaba-de-su-octava-planta-en-el-pais"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2026/Piracicaba%20plant%20inauguration/Gestamp-Piracicaba-plant.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp nombra a Ana Fuentes como nueva Chief Financial Officer (CFO) Gestamp ha nombrado hoy Chief Financial Officer (CFO) a Ana Fuentes García, quien ocupaba hasta ahora la dirección de Relaciones con Inversores y M&amp;A. El nombramiento será efectivo desde hoy.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2026/Gestamp-nombra-a-Ana-Fuentes-como-nueva-Chief-Financial-Officer-(CFO)</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2026/Gestamp-nombra-a-Ana-Fuentes-como-nueva-Chief-Financial-Officer-(CFO)</guid>
+      <pubDate>Fri, 29 May 2026 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp ha nombrado hoy Chief Financial Officer (CFO) a Ana Fuentes García, quien ocupaba hasta ahora la dirección de Relaciones con Inversores y M&amp;A. El nombramiento será efectivo desde hoy.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Portada de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2026/Gestamp-nombra-a-Ana-Fuentes-como-nueva-Chief-Financial-Officer-(CFO)"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2026/New%20CFO/Ana-Fuentes,-CFO-de-Gestamp.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp ingresa 2.834 millones de euros en el primer trimestre y mantiene sus previsiones anuales El impulso de medidas de eficiencia, control de costes y refuerzo de la solidez financiera del balance ha permitido a Gestamp reducir su deuda casi un 11% en un año, manteniendo el apalancamiento en un ratio de 1,5x EBITDA, en línea con el compromiso de la compañía</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2026/Gestamp-ingresa-2-834-millones-de-euros-en-el-primer-trimestre-y-mantiene-sus-previsiones-anuales</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2026/Gestamp-ingresa-2-834-millones-de-euros-en-el-primer-trimestre-y-mantiene-sus-previsiones-anuales</guid>
+      <pubDate>Wed, 13 May 2026 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;El impulso de medidas de eficiencia, control de costes y refuerzo de la solidez financiera del balance ha permitido a Gestamp reducir su deuda casi un 11% en un año, manteniendo el apalancamiento en un ratio de 1,5x EBITDA, en línea con el compromiso de la compañía&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2026/Gestamp-ingresa-2-834-millones-de-euros-en-el-primer-trimestre-y-mantiene-sus-previsiones-anuales"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2026/Resultados%20Q1%202026/Francisco-J-Riberas,-Executive-Chairman-of-Gestamp,-during-2026-AGM.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp e Iberdrola firman un acuerdo Gestamp e Iberdrola han firmado un contrato de compraventa de energía renovable (Power Purchase Agreement o PPA, por sus siglas en inglés) por 10 años para el suministro de 660.000 MWh de electricidad a diversas plantas en Europa de la multinacional especializada en el diseño, desarrollo y fabricación de componentes metálicos de alta ingeniería para la industria de la automoción.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2026/Gestamp-e-Iberdrola-firman-un-acuerdo-para-el-suministro-de-energia-limpia-en-Europa-durante-10-anos</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2026/Gestamp-e-Iberdrola-firman-un-acuerdo-para-el-suministro-de-energia-limpia-en-Europa-durante-10-anos</guid>
+      <pubDate>Tue, 31 Mar 2026 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp e Iberdrola han firmado un contrato de compraventa de energía renovable (Power Purchase Agreement o PPA, por sus siglas en inglés) por 10 años para el suministro de 660.000 MWh de electricidad a diversas plantas en Europa de la multinacional especializada en el diseño, desarrollo y fabricación de componentes metálicos de alta ingeniería para la industria de la automoción.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2026/Gestamp-e-Iberdrola-firman-un-acuerdo-para-el-suministro-de-energia-limpia-en-Europa-durante-10-anos"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2026/03312026_Iberdrola/2-Energia-eolica_web.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp obtiene unos ingresos de 11.349 millones de euros en un complejo entorno de mercado en 2025 Gestamp ha implantado medidas de eficiencia, control de costes e impulso de la solidez financiera del balance para proteger su competitividad</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2026/Gestamp-obtiene-unos-ingresos-de-11-349-millones-de-euros-en-un-complejo-entorno-de-mercado-en-2025</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2026/Gestamp-obtiene-unos-ingresos-de-11-349-millones-de-euros-en-un-complejo-entorno-de-mercado-en-2025</guid>
+      <pubDate>Thu, 26 Feb 2026 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp ha implantado medidas de eficiencia, control de costes e impulso de la solidez financiera del balance para proteger su competitividad&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2026/Gestamp-obtiene-unos-ingresos-de-11-349-millones-de-euros-en-un-complejo-entorno-de-mercado-en-2025"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2026/Resultados%202025%20FY/Gestamp_FY2025.JPG?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp mejora las condiciones aplicables a 1.700 millones de euros de deuda corporativa La compañía ha formalizado una operación de novación con el respaldo de las 18 entidades bancarias de referencia que ya suscribieron la financiación sindicada originaria en 2023</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2026/Gestamp-mejora-las-condiciones-aplicables-a-1-700-millones-de-euros-de-deuda-corporativa</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2026/Gestamp-mejora-las-condiciones-aplicables-a-1-700-millones-de-euros-de-deuda-corporativa</guid>
+      <pubDate>Thu, 08 Jan 2026 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;La compañía ha formalizado una operación de novación con el respaldo de las 18 entidades bancarias de referencia que ya suscribieron la financiación sindicada originaria en 2023&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2026/Gestamp-mejora-las-condiciones-aplicables-a-1-700-millones-de-euros-de-deuda-corporativa"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2026/Pr%c3%a9stamo%20sindicado/20260108_Gestamp_vf.JPG?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>S.M. el Rey Felipe VI visita una fábrica de Gestamp en el marco de su viaje de Estado a China El Rey Felipe conoció de primera mano la trayectoria de Gestamp en el país asiático, donde las alianzas han fortalecido sus relaciones comerciales con los fabricantes, especialmente en el mercado del vehículo eléctrico</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2025/S-M-el-Rey-Felipe-VI-visita-una-fabrica-de-Gestamp-en-el-marco-de-su-viaje-de-Estado-a-China</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2025/S-M-el-Rey-Felipe-VI-visita-una-fabrica-de-Gestamp-en-el-marco-de-su-viaje-de-Estado-a-China</guid>
+      <pubDate>Thu, 13 Nov 2025 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;El Rey Felipe conoció de primera mano la trayectoria de Gestamp en el país asiático, donde las alianzas han fortalecido sus relaciones comerciales con los fabricantes, especialmente en el mercado del vehículo eléctrico&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2025/S-M-el-Rey-Felipe-VI-visita-una-fabrica-de-Gestamp-en-el-marco-de-su-viaje-de-Estado-a-China"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2025/SMER%20Visita%20China/H-M-King-Felipe-VI-visits-a-Gestamp-facility-in-Beijing.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp obtiene un margen EBITDA del 11% en los primeros nueve meses del año El EBITDA de enero a septiembre alcanzó 937 millones de euros y un margen del 11% (excluyendo el impacto del Plan Phoenix) gracias a la implementación de medidas de eficiencia en sus operaciones, una estrategia de reducción de costes y la diversificación geográfica</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2025/Gestamp-obtiene-un-margen-EBITDA-del-11-en-los-primeros-nueve-meses-del-ano</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2025/Gestamp-obtiene-un-margen-EBITDA-del-11-en-los-primeros-nueve-meses-del-ano</guid>
+      <pubDate>Tue, 04 Nov 2025 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;El EBITDA de enero a septiembre alcanzó 937 millones de euros y un margen del 11% (excluyendo el impacto del Plan Phoenix) gracias a la implementación de medidas de eficiencia en sus operaciones, una estrategia de reducción de costes y la diversificación geográfica&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2025/Gestamp-obtiene-un-margen-EBITDA-del-11-en-los-primeros-nueve-meses-del-ano"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2025/Resultados%20Q3%202025/Gestamp.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp consolida su compromiso con la sostenibilidad y reduce un 42% sus emisiones desde 2018 Se cumple una década desde que la compañía publicó, de forma voluntaria, su primera memoria desostenibilidad, un documento que visibiliza cómo Gestamp crea valor para sus grupos de interés a través de un modelo de negocio que integra la sostenibilidad y la ha transformado en una ventaja competitiva</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2025/Gestamp-consolida-su-compromiso-con-la-sostenibilidad-y-reduce-un-42-sus-emisiones-desde-2018</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2025/Gestamp-consolida-su-compromiso-con-la-sostenibilidad-y-reduce-un-42-sus-emisiones-desde-2018</guid>
+      <pubDate>Thu, 30 Oct 2025 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Se cumple una década desde que la compañía publicó, de forma voluntaria, su primera memoria desostenibilidad, un documento que visibiliza cómo Gestamp crea valor para sus grupos de interés a través de un modelo de negocio que integra la sostenibilidad y la ha transformado en una ventaja competitiva&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2025/Gestamp-consolida-su-compromiso-con-la-sostenibilidad-y-reduce-un-42-sus-emisiones-desde-2018"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2025/A%20decade%20of%20sustainability/Gestamp-foto.png?ext=.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp e Hydnum Steel firman un acuerdo para utilizar acero limpio producido con hidrógeno verde Gestamp, a través de Gescrap, suministrará chatarra de acero de alta calidad procedente de la producción de piezas de estampación a Hydnum Steel, que empleará energías renovables e hidrógeno verde en su reprocesamiento en hornos de arco eléctrico para producir acero bajo en emisiones CO₂</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2025/Gestamp-e-Hydnum-Steel-firman-un-acuerdo-para-utilizar-acero-limpio-producido-con-hidrogeno-verde</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2025/Gestamp-e-Hydnum-Steel-firman-un-acuerdo-para-utilizar-acero-limpio-producido-con-hidrogeno-verde</guid>
+      <pubDate>Thu, 09 Oct 2025 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp, a través de Gescrap, suministrará chatarra de acero de alta calidad procedente de la producción de piezas de estampación a Hydnum Steel, que empleará energías renovables e hidrógeno verde en su reprocesamiento en hornos de arco eléctrico para producir acero bajo en emisiones CO₂&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2025/Gestamp-e-Hydnum-Steel-firman-un-acuerdo-para-utilizar-acero-limpio-producido-con-hidrogeno-verde"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2025/Hydnum%20Steel%20-%20Gestamp/Javier-Imaz-and-Gilles-Mirol_2.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp fija con éxito el precio de su emisión de 500 millones de euros en bonos senior garantizados con vencimiento en 2030 Los títulos, que se han emitido a la par, devengarán un cupón anual del 4,375%</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2025/Gestamp-fija-con-exito-el-precio-de-su-emision-de-500-millones-de-euros-en-bonos-senior-garantizados</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2025/Gestamp-fija-con-exito-el-precio-de-su-emision-de-500-millones-de-euros-en-bonos-senior-garantizados</guid>
+      <pubDate>Tue, 23 Sep 2025 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Los títulos, que se han emitido a la par, devengarán un cupón anual del 4,375%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2025/Gestamp-fija-con-exito-el-precio-de-su-emision-de-500-millones-de-euros-en-bonos-senior-garantizados"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2025/Colocaci%c3%b3n%20bonos/20250923_Gestamp.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp ingresa 5.844 millones de euros y sitúa su deuda neta en 2.141 millones de euros A pesar de la incertidumbre en torno a los volúmenes de producción de vehículos para el 2025, Gestamp mantiene su compromiso de cumplir con las previsiones establecidas para el cierre del año</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2025/Gestamp-ingresa-5-844-millones-de-euros-y-situa-su-deuda-neta-en-2-141-millones-de-euros</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2025/Gestamp-ingresa-5-844-millones-de-euros-y-situa-su-deuda-neta-en-2-141-millones-de-euros</guid>
+      <pubDate>Mon, 28 Jul 2025 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;A pesar de la incertidumbre en torno a los volúmenes de producción de vehículos para el 2025, Gestamp mantiene su compromiso de cumplir con las previsiones establecidas para el cierre del año&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2025/Gestamp-ingresa-5-844-millones-de-euros-y-situa-su-deuda-neta-en-2-141-millones-de-euros"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2025/Resultados%20H1/Gestamp.JPG?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>AEE 2025 Yokohama, testigo de las últimas innovaciones de Gestamp para una movilidad más segura La multinacional está presente en el Automotive Engineering Exposition 2025 en Yokohama (Japón), que tendrá lugar del 21 al 23 de mayo, para mostrar al mercado nipón las últimas innovaciones en tecnología y componentes de automoción</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2025/AEE-2025-Yokohama,-testigo-de-las-ultimas-innovaciones-de-Gestamp-para-una-movilidad-mas-segura</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2025/AEE-2025-Yokohama,-testigo-de-las-ultimas-innovaciones-de-Gestamp-para-una-movilidad-mas-segura</guid>
+      <pubDate>Wed, 21 May 2025 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;La multinacional está presente en el Automotive Engineering Exposition 2025 en Yokohama (Japón), que tendrá lugar del 21 al 23 de mayo, para mostrar al mercado nipón las últimas innovaciones en tecnología y componentes de automoción&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2025/AEE-2025-Yokohama,-testigo-de-las-ultimas-innovaciones-de-Gestamp-para-una-movilidad-mas-segura"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2025/Yokohama%202025/Gestamp-AEE-Yokohama-2025_-web.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp ingresa 2.983 millones en el primer trimestre y reitera sus previsiones para 2025 El EBITDA, entre enero y marzo, se sitúa en 307 millones de euros (excluyendo el impacto del Plan Phoenix) y un margen del 10,3%, lo que permite mantener la rentabilidad y la fortaleza financiera de la compañía en un momento de volatilidad del sector</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2025/Gestamp-ingresa-2-983-millones-en-el-primer-trimestre-y-reitera-sus-previsiones-para-2025</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2025/Gestamp-ingresa-2-983-millones-en-el-primer-trimestre-y-reitera-sus-previsiones-para-2025</guid>
+      <pubDate>Thu, 08 May 2025 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;El EBITDA, entre enero y marzo, se sitúa en 307 millones de euros (excluyendo el impacto del Plan Phoenix) y un margen del 10,3%, lo que permite mantener la rentabilidad y la fortaleza financiera de la compañía en un momento de volatilidad del sector&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2025/Gestamp-ingresa-2-983-millones-en-el-primer-trimestre-y-reitera-sus-previsiones-para-2025"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2025/Resultados%20Q1%202025/Gestamp-Q1-2025.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Auto Shanghái 2025 acoge las últimas innovaciones de Gestamp La multinacional está presente en el 21º Salón Internacional de la Industria del Automóvil en Shanghái, China, que tendrá lugar del 23 de abril al 2 de mayo para mostrar en su mercado clave las últimas innovaciones en tecnología y productos</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2025/Auto-Shanghai-2025-acoge-las-ultimas-innovaciones-de-Gestamp</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2025/Auto-Shanghai-2025-acoge-las-ultimas-innovaciones-de-Gestamp</guid>
+      <pubDate>Wed, 23 Apr 2025 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;La multinacional está presente en el 21º Salón Internacional de la Industria del Automóvil en Shanghái, China, que tendrá lugar del 23 de abril al 2 de mayo para mostrar en su mercado clave las últimas innovaciones en tecnología y productos&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2025/Auto-Shanghai-2025-acoge-las-ultimas-innovaciones-de-Gestamp"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2025/Auto%20Shanghai%202025/Gestamp-Auto-Shanghai-2025_1.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp alcanza sus previsiones e ingresa 12.001 millones de euros en 2024 La compañía reporta en línea con el consenso de mercado y sitúa su EBITDA de enero a diciembre en los 1.319 millones de euros (excluyendo el impacto del Plan Phoenix), con un margen del 11%</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2025/Gestamp-alcanza-sus-previsiones-e-ingresa-12-001-millones-de-euros-en-2024</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2025/Gestamp-alcanza-sus-previsiones-e-ingresa-12-001-millones-de-euros-en-2024</guid>
+      <pubDate>Thu, 27 Feb 2025 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;La compañía reporta en línea con el consenso de mercado y sitúa su EBITDA de enero a diciembre en los 1.319 millones de euros (excluyendo el impacto del Plan Phoenix), con un margen del 11%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2025/Gestamp-alcanza-sus-previsiones-e-ingresa-12-001-millones-de-euros-en-2024"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2025/Resultados%20Q1/GestampFY2024-WEB_1.jpeg?ext=.jpeg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp recibe la primera certificación de AENOR por su sistema de gestión de la innovación El certificado de sistemas de gestión de la innovación destaca la innovación como un factor clave para identificar nuevas oportunidades en un entorno de mercado en constante evolución.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2025/Gestamp-recibe-la-primera-certificacion-de-AENOR-por-su-sistema-de-gestion-de-la-innovacion</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2025/Gestamp-recibe-la-primera-certificacion-de-AENOR-por-su-sistema-de-gestion-de-la-innovacion</guid>
+      <pubDate>Tue, 18 Feb 2025 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;El certificado de sistemas de gestión de la innovación destaca la innovación como un factor clave para identificar nuevas oportunidades en un entorno de mercado en constante evolución.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2025/Gestamp-recibe-la-primera-certificacion-de-AENOR-por-su-sistema-de-gestion-de-la-innovacion"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2025/Certificado%20AENOR/(I-D)-Ignacio-Martin-(Gestamp),-Nicolas-Henriquez-(AENOR).jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp abre su segundo centro de formación en tecnología (GTI) en México Se trata del segundo Gestamp Technology Institute (GTI) de la compañía y el primero que inaugura fuera de España</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2025/Gestamp-abre-su-segundo-centro-de-formacion-en-tecnologia-(GTI)-en-Mexico</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2025/Gestamp-abre-su-segundo-centro-de-formacion-en-tecnologia-(GTI)-en-Mexico</guid>
+      <pubDate>Tue, 11 Feb 2025 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Se trata del segundo Gestamp Technology Institute (GTI) de la compañía y el primero que inaugura fuera de España&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2025/Gestamp-abre-su-segundo-centro-de-formacion-en-tecnologia-(GTI)-en-Mexico"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2025/(GTI)%20in%20Puebla/L-R-(Z-Mateos,-L-Vega,-J-Oropeza,-F-J-Riberas,-P-Riberas,-M-Arroyo)_1.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp presenta sus últimas soluciones para componentes en la Bharat Mobility Global Expo en India La multinacional líder en innovación automovilística y pionera en la aplicación de tecnologías de vanguardia muestra sus últimas soluciones para contribuir al desarrollo de la movilidad eléctrica en la 2ª edición de la Bharat Mobility Global Expo de Nueva Delhi.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2025/Gestamp-presenta-sus-ultimas-soluciones-para-componentes-en-la-Bharat-Mobility-Global-Expo-en-India</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2025/Gestamp-presenta-sus-ultimas-soluciones-para-componentes-en-la-Bharat-Mobility-Global-Expo-en-India</guid>
+      <pubDate>Mon, 20 Jan 2025 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;La multinacional líder en innovación automovilística y pionera en la aplicación de tecnologías de vanguardia muestra sus últimas soluciones para contribuir al desarrollo de la movilidad eléctrica en la 2ª edición de la Bharat Mobility Global Expo de Nueva Delhi.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2025/Gestamp-presenta-sus-ultimas-soluciones-para-componentes-en-la-Bharat-Mobility-Global-Expo-en-India"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2025/Bharat%202025/Gestamp-Bharat-Mobility-Global-Expo-2025.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp ingresa 2.787 millones de euros en el tercer trimestre Gestamp ha presentado hoy sus resultados correspondientes al tercer trimestre de 2024.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2024/Gestamp-ingresa-2-787-millones-de-euros-en-el-tercer-trimestre</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2024/Gestamp-ingresa-2-787-millones-de-euros-en-el-tercer-trimestre</guid>
+      <pubDate>Tue, 05 Nov 2024 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp ha presentado hoy sus resultados correspondientes al tercer trimestre de 2024.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2024/Gestamp-ingresa-2-787-millones-de-euros-en-el-tercer-trimestre"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2024/Q3%20Financial%20Results/GESTAMP_Q3.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp presenta sus últimas soluciones para componentes más seguros y sostenibles en la feria IZB Gestamp participa en la 12ª Feria Internacional de Proveedores (IZB) que se celebra en Wolfsburgo (Alemania), del 22 al 24 de octubre.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2024/Gestamp-presenta-sus-ultimas-soluciones-para-componentes-mas-seguros-y-sostenibles-en-la-feria-IZB</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2024/Gestamp-presenta-sus-ultimas-soluciones-para-componentes-mas-seguros-y-sostenibles-en-la-feria-IZB</guid>
+      <pubDate>Tue, 22 Oct 2024 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp participa en la 12ª Feria Internacional de Proveedores (IZB) que se celebra en Wolfsburgo (Alemania), del 22 al 24 de octubre.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2024/Gestamp-presenta-sus-ultimas-soluciones-para-componentes-mas-seguros-y-sostenibles-en-la-feria-IZB"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2024/IZB%202024/Gestamp-at-IZB.JPG?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp ingresa 6.140 millones de euros y obtiene un margen EBITDA del 10,6% en el primer semestre Gestamp presentó hoy sus resultados correspondientes al primer semestre de 2024. Durante el periodo y a pesar del menor dinamismo del mercado en regiones claves para la compañía, Gestamp ha mejorado los ingresos, la rentabilidad EBITDA y registrado una generación de caja positiva con respecto al trimestre anterior.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2024/Gestamp-ingresa-6-140-millones-de-euros-y-obtiene-un-margen-EBITDA-del-10,6-en-el-primer-semestre</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2024/Gestamp-ingresa-6-140-millones-de-euros-y-obtiene-un-margen-EBITDA-del-10,6-en-el-primer-semestre</guid>
+      <pubDate>Mon, 29 Jul 2024 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp presentó hoy sus resultados correspondientes al primer semestre de 2024. Durante el periodo y a pesar del menor dinamismo del mercado en regiones claves para la compañía, Gestamp ha mejorado los ingresos, la rentabilidad EBITDA y registrado una generación de caja positiva con respecto al trimestre anterior.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2024/Gestamp-ingresa-6-140-millones-de-euros-y-obtiene-un-margen-EBITDA-del-10,6-en-el-primer-semestre"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2024/Results%20H1%202024/Gestamp-1H.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp firma un acuerdo con Acciaieria Arvedi Gestamp y el productor de acero italiano Acciaieria Arvedi han firmado un acuerdo para suministrar a los fabricantes de vehículos componentes de acero de bajas emisiones producidos de forma sostenible utilizando "acero ARVZERO™ certificado como neutro en carbono" de Arvedi procedente de chatarra de alta calidad.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2024/Gestamp-firma-un-acuerdo-con-Acciaieria-Arvedi-para-el-uso-del-acero-de-bajas-emisiones-ARVZERO™</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2024/Gestamp-firma-un-acuerdo-con-Acciaieria-Arvedi-para-el-uso-del-acero-de-bajas-emisiones-ARVZERO™</guid>
+      <pubDate>Wed, 03 Jul 2024 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp y el productor de acero italiano Acciaieria Arvedi han firmado un acuerdo para suministrar a los fabricantes de vehículos componentes de acero de bajas emisiones producidos de forma sostenible utilizando "acero ARVZERO™ certificado como neutro en carbono" de Arvedi procedente de chatarra de alta calidad.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2024/Gestamp-firma-un-acuerdo-con-Acciaieria-Arvedi-para-el-uso-del-acero-de-bajas-emisiones-ARVZERO™"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2024/Arvedi_03072024/(I-D)-Fabio-Baldrighi-(Acciaieria-Arvedi)-Javier-Imaz-(Gestamp).JPG?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp apuesta por el acero de bajas emisiones de Salzgitter Flachstahl Gestamp y Salzgitter Flachstahl GmbH han firmado un acuerdo para suministrar a los fabricantes de vehículos componentes producidos con acero de bajas emisiones.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2024/Gestamp-apuesta-por-el-acero-de-bajas-emisiones-de-Salzgitter-Flachstahl</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2024/Gestamp-apuesta-por-el-acero-de-bajas-emisiones-de-Salzgitter-Flachstahl</guid>
+      <pubDate>Wed, 05 Jun 2024 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp y Salzgitter Flachstahl GmbH han firmado un acuerdo para suministrar a los fabricantes de vehículos componentes producidos con acero de bajas emisiones.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2024/Gestamp-apuesta-por-el-acero-de-bajas-emisiones-de-Salzgitter-Flachstahl"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2024/Acuerdo%20Salzgitter_0506/L-R-(Dr-Ralf-Koch,-Salzgitter-Flachstahl-GmbH-Javier-Imaz,-Gestamp).jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Nace la Fundación Gestamp</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2024/Nace-la-Fundacion-Gestamp</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2024/Nace-la-Fundacion-Gestamp</guid>
+      <pubDate>Tue, 04 Jun 2024 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp, multinacional especializada en el diseño, desarrollo y fabricación de componentes metálicos de alta ingeniería para la industria de la automoción, ha anunciado hoy la creación de la Fundación Gestamp. Esta entidad sin ánimo de lucro desarrollará proyectos e iniciativas de carácter social para contribuir al progreso de las personas y las comunidades locales en las que la compañía tiene actividad. La constitución de la Fundación supone un hito en la trayectoria de Gestamp, cuya actividad siempre ha estado fuertemente vinculada y comprometida con el progreso social y económico.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2024/Nace-la-Fundacion-Gestamp"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2024/Fundacion%20Gestamp/Fundacion-Gestamp-logo-con-fondo.png?ext=.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp presenta sus novedades para la arquitectura de vehículos eléctricos en Yokohama Gestamp muestra sus productos e innovaciones en la Automotive Engineering Exposition 2024 de Yokohama.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2024/Gestamp-presenta-sus-novedades-para-la-arquitectura-de-vehiculos-electricos-en-Yokohama</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2024/Gestamp-presenta-sus-novedades-para-la-arquitectura-de-vehiculos-electricos-en-Yokohama</guid>
+      <pubDate>Wed, 22 May 2024 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp muestra sus productos e innovaciones en la Automotive Engineering Exposition 2024 de Yokohama.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2024/Gestamp-presenta-sus-novedades-para-la-arquitectura-de-vehiculos-electricos-en-Yokohama"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2024/Yokohama_2205/Gestamp-Yokohama-2-(Rear-Frame).jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp ingresa 3.049 millones en el primer trimestre Gestamp presentó hoy sus resultados correspondientes al primer trimestre de 2024.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2024/Gestamp-ingresa-3-049-millones-en-el-primer-trimestre-y-vuelve-a-batir-al-mercado</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2024/Gestamp-ingresa-3-049-millones-en-el-primer-trimestre-y-vuelve-a-batir-al-mercado</guid>
+      <pubDate>Thu, 09 May 2024 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp presentó hoy sus resultados correspondientes al primer trimestre de 2024.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2024/Gestamp-ingresa-3-049-millones-en-el-primer-trimestre-y-vuelve-a-batir-al-mercado"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2024/Financial%20Results%20Q1/Francisco-J-Riberas_web_2.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp alcanza ingresos récord en 2023 Gestamp presentó hoy sus resultados correspondientes al año 2023. Estos resultados reafirman la confianza de la compañía en alcanzar los objetivos marcados en el Capital Markets Day para 2027.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2024/Gestamp-alcanza-ingresos-record-en-2023-de-12-274€-millones-e-incrementa-beneficio-en-un-8</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2024/Gestamp-alcanza-ingresos-record-en-2023-de-12-274€-millones-e-incrementa-beneficio-en-un-8</guid>
+      <pubDate>Tue, 27 Feb 2024 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp presentó hoy sus resultados correspondientes al año 2023. Estos resultados reafirman la confianza de la compañía en alcanzar los objetivos marcados en el Capital Markets Day para 2027.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2024/Gestamp-alcanza-ingresos-record-en-2023-de-12-274€-millones-e-incrementa-beneficio-en-un-8"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2024/Annual%20Results%202023_270223/Gestamp_FY2023.JPG?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp factura un 18% más en los primeros 9 meses de 2023 Gestamp presentó hoy sus resultados de los nueve primeros meses de 2023. Los indicadores financieros registrados durante el periodo se mantienen en línea con los objetivos marcados por la compañía gracias a un desempeño positivo de los proyectos desarrollados y a pesar de un entorno de elevada inflación. Pese a esta situación, Gestamp reitera sus compromisos de guidance para el cierre del año 2023.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2023/Gestamp-factura-un-18-mas-en-los-primeros-nueve-meses-de-2023</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2023/Gestamp-factura-un-18-mas-en-los-primeros-nueve-meses-de-2023</guid>
+      <pubDate>Tue, 07 Nov 2023 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp presentó hoy sus resultados de los nueve primeros meses de 2023. Los indicadores financieros registrados durante el periodo se mantienen en línea con los objetivos marcados por la compañía gracias a un desempeño positivo de los proyectos desarrollados y a pesar de un entorno de elevada inflación. Pese a esta situación, Gestamp reitera sus compromisos de guidance para el cierre del año 2023.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2023/Gestamp-factura-un-18-mas-en-los-primeros-nueve-meses-de-2023"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2023/Q3%202023%20Results/GESTAMP.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp y SSAB inician una alianza para utilizar acero libre de fósiles Gestamp ha firmado un acuerdo con la siderúrgica sueca SSAB para el suministro de SSAB Fossil-free™ (acero libre de fósiles), el cual será utilizado en la producción de productos de carrocería y chasis.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2023/Gestamp-y-SSAB-inician-una-alianza-para-utilizar-acero-libre-de-fosiles</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2023/Gestamp-y-SSAB-inician-una-alianza-para-utilizar-acero-libre-de-fosiles</guid>
+      <pubDate>Thu, 26 Oct 2023 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp ha firmado un acuerdo con la siderúrgica sueca SSAB para el suministro de SSAB Fossil-free™ (acero libre de fósiles), el cual será utilizado en la producción de productos de carrocería y chasis.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2023/Gestamp-y-SSAB-inician-una-alianza-para-utilizar-acero-libre-de-fosiles"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2023/SSAB/I-D_Tony-Harris-(SSAB)-Javier-Imaz-(Gestamp).JPG?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp y Tata Steel firman alianza para aumentar casi al doble el acero reciclado en su producción</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2023/Gestamp-y-Tata-Steel-firman-alianza-para-aumentar-casi-al-doble-el-acero-reciclado-en-su-produccion</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2023/Gestamp-y-Tata-Steel-firman-alianza-para-aumentar-casi-al-doble-el-acero-reciclado-en-su-produccion</guid>
+      <pubDate>Tue, 10 Oct 2023 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Tata Steel, el mayor fabricante de acero del Reino Unido, y Gestamp, proveedor de automoción Tier 1, han firmado un acuerdo destinado a casi duplicar el porcentaje de acero reciclado en los componentes que se suministran al sector de la automoción, con el objetivo común de aumentar la circularidad del acero en la cadena de suministro. La iniciativa permitirá a Gestamp trasladar a los fabricantes de vehículos los beneficios de aumentar el material reciclado, así como la reducción de la huella de carbono asociada.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2023/Gestamp-y-Tata-Steel-firman-alianza-para-aumentar-casi-al-doble-el-acero-reciclado-en-su-produccion"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2023/Tata%20Steel/(I-D)-Peter-Quinn-y-Ernesto-Barcelo.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp se une a Catena-X Gestamp ha firmado un acuerdo con Catena-X: el primer ecosistema colaborativo y de datos abiertos para la industria global de la automoción. Esta alianza se enmarca en la hoja de ruta de Gestamp, centrada en avanzar en el desarrollo e implementación de sus estrategias de digitalización y ESG para impulsar la economía circular y la Industria 4.0 dentro del sector de la automoción.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2023/Gestamp-se-une-a-Catena-X-para-fomentar-la-colaboracion-en-la-industria-de-la-automocion</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2023/Gestamp-se-une-a-Catena-X-para-fomentar-la-colaboracion-en-la-industria-de-la-automocion</guid>
+      <pubDate>Mon, 02 Oct 2023 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp ha firmado un acuerdo con Catena-X: el primer ecosistema colaborativo y de datos abiertos para la industria global de la automoción. Esta alianza se enmarca en la hoja de ruta de Gestamp, centrada en avanzar en el desarrollo e implementación de sus estrategias de digitalización y ESG para impulsar la economía circular y la Industria 4.0 dentro del sector de la automoción.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2023/Gestamp-se-une-a-Catena-X-para-fomentar-la-colaboracion-en-la-industria-de-la-automocion"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2023/Catena-X/Gestamp-joins-Catena-X.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp obtiene el certificado ISO 45001:2018 Gestamp ha sido certificada por la norma ISO 45001:2018 en todas las plantas producción, consolidando así la certificación en todo del perímetro del grupo, lo que lo que demuestra el compromiso que la empresa tiene con seguridad y salud en el trabajo, bajo estándares internacionales.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2023/Gestamp-obtiene-el-certificado-ISO-45001-2018</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2023/Gestamp-obtiene-el-certificado-ISO-45001-2018</guid>
+      <pubDate>Thu, 28 Sep 2023 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp ha sido certificada por la norma ISO 45001:2018 en todas las plantas producción, consolidando así la certificación en todo del perímetro del grupo, lo que lo que demuestra el compromiso que la empresa tiene con seguridad y salud en el trabajo, bajo estándares internacionales.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2023/Gestamp-obtiene-el-certificado-ISO-45001-2018"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2023/ISO/ISO-certification.png?ext=.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp alcanza beneficio neto de 162€ millones en primer semestre Gestamp, multinacional especializada en el diseño, desarrollo y fabricación de componentes metálicos de alta ingeniería para la industria de la automoción, presentó hoy sus resultados del primer semestre de 2023. El desempeño de la compañía en este periodo ha permitido alcanzar cifras récord a todos los niveles tanto en términos de ingresos como de EBITDA, EBIT, y de beneficio neto.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2023/Gestamp-alcanza-beneficio-neto-de-162€-millones-en-primer-semestre</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2023/Gestamp-alcanza-beneficio-neto-de-162€-millones-en-primer-semestre</guid>
+      <pubDate>Tue, 25 Jul 2023 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp, multinacional especializada en el diseño, desarrollo y fabricación de componentes metálicos de alta ingeniería para la industria de la automoción, presentó hoy sus resultados del primer semestre de 2023. El desempeño de la compañía en este periodo ha permitido alcanzar cifras récord a todos los niveles tanto en términos de ingresos como de EBITDA, EBIT, y de beneficio neto.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2023/Gestamp-alcanza-beneficio-neto-de-162€-millones-en-primer-semestre"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2023/Q2%202023%20Results/Gestamp-H1-2023.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>ArcelorMittal y Gestamp firman un acuerdo</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2023/ArcelorMittal-y-Gestamp-firman-un-acuerdo-de-circularidad</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2023/ArcelorMittal-y-Gestamp-firman-un-acuerdo-de-circularidad</guid>
+      <pubDate>Fri, 21 Jul 2023 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;ArcelorMittal Europe - Flat Products y Gestamp, proveedor de automoción Tier 1, han firmado un "acuerdo de circularidad" con el objetivo de fortalecer la sostenibilidad en toda la cadena de suministro del sector de automoción. El acuerdo incluye diseñar e implementar conjuntamente un esquema de circularidad que fomenta el reciclaje del acero entre Gestamp y ArcelorMittal, y en última instancia, trasladar los beneficios del acuerdo a los fabricantes de automóvil.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2023/ArcelorMittal-y-Gestamp-firman-un-acuerdo-de-circularidad"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2023/ArcelorMittal/Gestamp-Arcelor.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp estima que más de la mitad de sus ingresos en cinco años procederán del vehículo eléctrico Gestamp ha celebrado hoy su segunda edición del Capital Markets Day. Durante el encuentro, la compañía ha presentado a los inversores el Plan Estratégico 2023-2027, con el que continuar liderando, junto a los fabricantes de vehículos, el camino hacia una movilidad más sostenible.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2023/Gestamp-estima-que-mas-de-la-mitad-de-sus-ingresos-en-cinco-anos-procederan-del-vehiculo-electrico</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2023/Gestamp-estima-que-mas-de-la-mitad-de-sus-ingresos-en-cinco-anos-procederan-del-vehiculo-electrico</guid>
+      <pubDate>Tue, 20 Jun 2023 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp ha celebrado hoy su segunda edición del Capital Markets Day. Durante el encuentro, la compañía ha presentado a los inversores el Plan Estratégico 2023-2027, con el que continuar liderando, junto a los fabricantes de vehículos, el camino hacia una movilidad más sostenible.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2023/Gestamp-estima-que-mas-de-la-mitad-de-sus-ingresos-en-cinco-anos-procederan-del-vehiculo-electrico"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2023/CMD%202023/Gestamp-Capital-Markets-Day-2023.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mireia Arroyo, directora de Comunicación, Marketing y RR.II.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2023/Mireia-Arroyo,-directora-de-Comunicacion,-Marketing-y-RR-II</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2023/Mireia-Arroyo,-directora-de-Comunicacion,-Marketing-y-RR-II</guid>
+      <pubDate>Thu, 15 Jun 2023 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp ha nombrado directora corporativa de Comunicación, Marketing y Relaciones Institucionales a Mireia Arroyo de la Parte, hasta ahora responsable de Relaciones Institucionales de la compañía. En su nueva responsabilidad, liderará la relación con las distintas entidades público-privadas de los países en los que opera Gestamp, coordinará la gestión integral con los medios de comunicación, así como la comunicación corporativa, reputación y desarrollo de marca, esenciales para la consecución de los objetivos de negocio de la compañía. Arroyo reportará directamente al presidente ejecutivo.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2023/Mireia-Arroyo,-directora-de-Comunicacion,-Marketing-y-RR-II"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2023/Gestamp%20appoints%20Mireia%20Arroyo%20as/Mireia-Arroyo-new-DirCom-Gestamp(web).jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Un trimestre récord gracias al fuerte crecimiento Gestamp presentó hoy sus resultados del primer trimestre de 2023. Las cifras demuestran la resistencia del modelo de negocio.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2023/Un-trimestre-record-gracias-al-fuerte-crecimiento</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2023/Un-trimestre-record-gracias-al-fuerte-crecimiento</guid>
+      <pubDate>Tue, 09 May 2023 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp presentó hoy sus resultados del primer trimestre de 2023. Las cifras demuestran la resistencia del modelo de negocio.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2023/Un-trimestre-record-gracias-al-fuerte-crecimiento"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2023/Q1%202023%20Results/Junta-General-de-Accionistas-Gestamp.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp está preparado para el vehículo eléctrico en Auto Shanghai 2023 Gestamp presenta en la 20.ª edición de Auto Shanghai su gama de productos e innovaciones como Extreme Size Parts, Cajas de Batería, Conceptos Cell-to-Pack, soluciones ligeras e innovadoras de Chasis o Active Frunks.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2023/Gestamp-esta-preparado-para-el-vehiculo-electrico-y-muestra-sus-ultimas-novedades-en-Auto-Shanghai</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2023/Gestamp-esta-preparado-para-el-vehiculo-electrico-y-muestra-sus-ultimas-novedades-en-Auto-Shanghai</guid>
+      <pubDate>Tue, 18 Apr 2023 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp presenta en la 20.ª edición de Auto Shanghai su gama de productos e innovaciones como Extreme Size Parts, Cajas de Batería, Conceptos Cell-to-Pack, soluciones ligeras e innovadoras de Chasis o Active Frunks.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2023/Gestamp-esta-preparado-para-el-vehiculo-electrico-y-muestra-sus-ultimas-novedades-en-Auto-Shanghai"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2023/Auto%20Shanghai%202023/Gallery/Gestamp-Auto-shanghai-2023-web.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Standard &amp; Poor’s eleva el rating de Gestamp El rating de Gestamp ha sido elevado un escalón en el día de hoy.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2023/Standard-Poor’s-eleva-el-rating-de-Gestamp</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2023/Standard-Poor’s-eleva-el-rating-de-Gestamp</guid>
+      <pubDate>Tue, 11 Apr 2023 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;El rating de Gestamp ha sido elevado un escalón en el día de hoy.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2023/Standard-Poor’s-eleva-el-rating-de-Gestamp"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2023/SP%20eleva%20rating%20Gestamp/Gestamp-3.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp cierra 2022 superando los niveles precovid Gestamp presentó hoy sus resultados anuales de 2022. Gestamp ha alcanzado los objetivos marcados para el año, pese a la complejidad del entorno, marcado por los desafíos geopolíticos, la alta inflación y la incertidumbre macroeconómica producida por la subida de los tipos de interés.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2023/Gestamp-cierra-2022-superando-los-niveles-precovid</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2023/Gestamp-cierra-2022-superando-los-niveles-precovid</guid>
+      <pubDate>Mon, 27 Feb 2023 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp presentó hoy sus resultados anuales de 2022. Gestamp ha alcanzado los objetivos marcados para el año, pese a la complejidad del entorno, marcado por los desafíos geopolíticos, la alta inflación y la incertidumbre macroeconómica producida por la subida de los tipos de interés.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2023/Gestamp-cierra-2022-superando-los-niveles-precovid"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2023/2022%20Results/Gestamp_2022.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>S.M. el Rey Felipe VI visita Gestamp con motivo de su 25 aniversario Su Majestad el Rey ha visitado la planta de producción de Gestamp Palencia en el contexto del 25 aniversario del Grupo. Francisco J. Riberas, presidente ejecutivo de Gestamp, ha mostrado al Jefe del Estado español las instalaciones dedicadas a la producción de piezas estructurales, como la carrocería o el chasis, para algunos de los fabricantes de vehículos más relevantes a nivel mundial.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2023/S-M-el-Rey-Felipe-VI-visita-Gestamp-con-motivo-de-su-25-aniversario</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2023/S-M-el-Rey-Felipe-VI-visita-Gestamp-con-motivo-de-su-25-aniversario</guid>
+      <pubDate>Fri, 03 Feb 2023 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Su Majestad el Rey ha visitado la planta de producción de Gestamp Palencia en el contexto del 25 aniversario del Grupo. Francisco J. Riberas, presidente ejecutivo de Gestamp, ha mostrado al Jefe del Estado español las instalaciones dedicadas a la producción de piezas estructurales, como la carrocería o el chasis, para algunos de los fabricantes de vehículos más relevantes a nivel mundial.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2023/S-M-el-Rey-Felipe-VI-visita-Gestamp-con-motivo-de-su-25-aniversario"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2023/SMER_03022023/DSCF0427.JPG?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp anuncia la cuarta línea de estampación en caliente en India Con dos plantas en Pune y una en Chennai, la compañía ampliará su negocio a un total de cuatro líneas de Estampación en Caliente este verano. Además, la multinacional presenta sus innovaciones de movilidad en Auto Expo 2023- Components.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2023/Gestamp-en-India-cuarta-linea-de-caliente-y-foco-en-la-nueva-movilidad</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2023/Gestamp-en-India-cuarta-linea-de-caliente-y-foco-en-la-nueva-movilidad</guid>
+      <pubDate>Thu, 12 Jan 2023 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Con dos plantas en Pune y una en Chennai, la compañía ampliará su negocio a un total de cuatro líneas de Estampación en Caliente este verano. Además, la multinacional presenta sus innovaciones de movilidad en Auto Expo 2023- Components.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2023/Gestamp-en-India-cuarta-linea-de-caliente-y-foco-en-la-nueva-movilidad"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2023/Auto%20Expo%20India_1201/GESTAMP.JPG?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp adquiere una participación estratégica en Gescrap Gestamp adquiere una participación del 33,3% en el Grupo Gescrap.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2022/Gestamp-adquiere-una-participacion-estrategica-en-Gescrap-para-potenciar-su-plan-de-ESG</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2022/Gestamp-adquiere-una-participacion-estrategica-en-Gescrap-para-potenciar-su-plan-de-ESG</guid>
+      <pubDate>Thu, 01 Dec 2022 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp adquiere una participación del 33,3% en el Grupo Gescrap.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2022/Gestamp-adquiere-una-participacion-estrategica-en-Gescrap-para-potenciar-su-plan-de-ESG"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2022/Green%20Project_0112/Inaki-Velasco-Francisco-Riberas.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp aumenta un 30,9% sus ingresos en 9M Gestamp ha presentado hoy sus resultados correspondientes a los nueve primeros meses de 2022.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2022/Gestamp-aumenta-un-30,9-sus-ingresos-en-9M,-hasta-los-7-697-millones-de-euros</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2022/Gestamp-aumenta-un-30,9-sus-ingresos-en-9M,-hasta-los-7-697-millones-de-euros</guid>
+      <pubDate>Mon, 07 Nov 2022 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp ha presentado hoy sus resultados correspondientes a los nueve primeros meses de 2022.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2022/Gestamp-aumenta-un-30,9-sus-ingresos-en-9M,-hasta-los-7-697-millones-de-euros"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2022/9M%20Results_0711/Gestamp.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp firma un acuerdo con Cemig Gestamp ha firmado un acuerdo con Cemig, considerada la mayor empresa integrada en el sector de la energía eléctrica en Brasil, para que el suministro eléctrico en las plantas de Brasil provenga de fuentes de energía renovable.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2022/Gestamp-firma-un-acuerdo-con-Cemig-para-que-su-electricidad-en-Brasil-sea-renovable</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2022/Gestamp-firma-un-acuerdo-con-Cemig-para-que-su-electricidad-en-Brasil-sea-renovable</guid>
+      <pubDate>Fri, 04 Nov 2022 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp ha firmado un acuerdo con Cemig, considerada la mayor empresa integrada en el sector de la energía eléctrica en Brasil, para que el suministro eléctrico en las plantas de Brasil provenga de fuentes de energía renovable.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2022/Gestamp-firma-un-acuerdo-con-Cemig-para-que-su-electricidad-en-Brasil-sea-renovable"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2022/Cemig_041122/Gestamp-Santa-Isabel-web.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp muestra sus últimas novedades para la movilidad presente y futura en IZB En la Feria Internacional de Proveedores (IZB), Gestamp muestra un abanico de productos e innovaciones como piezas de Extreme Size Parts, Battery boxes, conceptos de Cell-to-Pack, tecnologías de unión, soluciones innovadoras de chasis ligero, Active Frunks o Power Doors.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2022/Gestamp-muestra-sus-ultimas-novedades-para-la-movilidad-presente-y-futura-en-IZB</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2022/Gestamp-muestra-sus-ultimas-novedades-para-la-movilidad-presente-y-futura-en-IZB</guid>
+      <pubDate>Tue, 11 Oct 2022 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;En la Feria Internacional de Proveedores (IZB), Gestamp muestra un abanico de productos e innovaciones como piezas de Extreme Size Parts, Battery boxes, conceptos de Cell-to-Pack, tecnologías de unión, soluciones innovadoras de chasis ligero, Active Frunks o Power Doors.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2022/Gestamp-muestra-sus-ultimas-novedades-para-la-movilidad-presente-y-futura-en-IZB"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2022/IZB/Gestamp_IZB-2022.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Ernesto Barceló, director corporativo de ESG Gestamp ha nombrado Director Corporativo de ESG a Ernesto Barceló Rodríguez, lo que reafirma el compromiso de la compañía con los criterios Ambientales, Sociales y de Gobernanza que forman parte del ADN de Gestamp.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2022/Gestamp-nombra-Director-Corporativo-de-ESG-a-Ernesto-Barcelo</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2022/Gestamp-nombra-Director-Corporativo-de-ESG-a-Ernesto-Barcelo</guid>
+      <pubDate>Mon, 10 Oct 2022 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp ha nombrado Director Corporativo de ESG a Ernesto Barceló Rodríguez, lo que reafirma el compromiso de la compañía con los criterios Ambientales, Sociales y de Gobernanza que forman parte del ADN de Gestamp.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2022/Gestamp-nombra-Director-Corporativo-de-ESG-a-Ernesto-Barcelo"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2022/Ernesto%20Barcel%c3%b3_1010/Ernesto-Barcelo.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp celebra el Día Mundial del Vehículo Eléctrico World EV Day es un movimiento global que impulsa el cambio hacia un mundo de vehículos más “verdes”, marcando la diferencia. Un día de celebración de la movilidad y un día para reflexionar cómo hacer más fácil la transición hacia el transporte sostenible.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2022/Gestamp-celebra-el-Dia-Mundial-del-Vehiculo-Electrico-a-la-vanguardia-de-la-electrificacion</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2022/Gestamp-celebra-el-Dia-Mundial-del-Vehiculo-Electrico-a-la-vanguardia-de-la-electrificacion</guid>
+      <pubDate>Fri, 09 Sep 2022 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;World EV Day es un movimiento global que impulsa el cambio hacia un mundo de vehículos más “verdes”, marcando la diferencia. Un día de celebración de la movilidad y un día para reflexionar cómo hacer más fácil la transición hacia el transporte sostenible.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2022/Gestamp-celebra-el-Dia-Mundial-del-Vehiculo-Electrico-a-la-vanguardia-de-la-electrificacion"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2022/EVDay_090922/Gestamp_EV-Day.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp cierra un trimestre sólido pero se prepara para un segundo semestre incierto Gestamp presenta sus resultados del segundo trimestre de 2022.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2022/Gestamp-cierra-un-trimestre-solido-pero-se-prepara-para-un-segundo-semestre-incierto</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2022/Gestamp-cierra-un-trimestre-solido-pero-se-prepara-para-un-segundo-semestre-incierto</guid>
+      <pubDate>Tue, 26 Jul 2022 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp presenta sus resultados del segundo trimestre de 2022.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2022/Gestamp-cierra-un-trimestre-solido-pero-se-prepara-para-un-segundo-semestre-incierto"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2022/Q2%20Results/Gestamp-logo.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>ArcelorMittal y Gestamp anuncian una alianz ArcelorMittal y el proveedor de automoción Tier 1 Gestamp han probado con éxito el uso de acero de bajas emisiones de CO2 en piezas de automóviles que finalmente se utilizarán en la producción de vehículos en España y en toda Europa.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2022/ArcelorMittal-y-Gestamp-anuncian-una-alianza-para-introducir-piezas-de-acero-de-bajas-emisiones</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2022/ArcelorMittal-y-Gestamp-anuncian-una-alianza-para-introducir-piezas-de-acero-de-bajas-emisiones</guid>
+      <pubDate>Thu, 21 Jul 2022 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;ArcelorMittal y el proveedor de automoción Tier 1 Gestamp han probado con éxito el uso de acero de bajas emisiones de CO2 en piezas de automóviles que finalmente se utilizarán en la producción de vehículos en España y en toda Europa.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2022/ArcelorMittal-y-Gestamp-anuncian-una-alianza-para-introducir-piezas-de-acero-de-bajas-emisiones"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2022/ArcelorMittal_210722/L-to-R_-Francisco-J-Riberas-Geert-Van-Poelvoorde.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp y SSAB desarrollan un acero más ligero y resistente Junto con SSAB, Gestamp ha desarrollado un nuevo acero con un alto nivel de resistencia y al mismo tiempo una buena formalidad, más ligero y por tanto más respetuoso con el medio ambiente, para fabricar pieza de chasis para el Toyota Yaris.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2022/Gestamp,-en-colaboracion-con-SSAB,-desarrolla-con-exito-un-nuevo-acero-mas-ligero-y-resistente</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2022/Gestamp,-en-colaboracion-con-SSAB,-desarrolla-con-exito-un-nuevo-acero-mas-ligero-y-resistente</guid>
+      <pubDate>Tue, 28 Jun 2022 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Junto con SSAB, Gestamp ha desarrollado un nuevo acero con un alto nivel de resistencia y al mismo tiempo una buena formalidad, más ligero y por tanto más respetuoso con el medio ambiente, para fabricar pieza de chasis para el Toyota Yaris.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2022/Gestamp,-en-colaboracion-con-SSAB,-desarrolla-con-exito-un-nuevo-acero-mas-ligero-y-resistente"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2022/SSAB_2806/Front-Lower-Control-Arm.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Edscha apuesta por la innovación en Burgos Edscha anuncia un centro de mecanizado de última generación en Burgos, que supondrá un aumento tanto de facturación como de plantilla.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2022/Edscha-apuesta-por-la-innovacion-con-un-nuevo-centro-de-mecanizado-en-Burgos</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2022/Edscha-apuesta-por-la-innovacion-con-un-nuevo-centro-de-mecanizado-en-Burgos</guid>
+      <pubDate>Tue, 31 May 2022 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Edscha anuncia un centro de mecanizado de última generación en Burgos, que supondrá un aumento tanto de facturación como de plantilla.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2022/Edscha-apuesta-por-la-innovacion-con-un-nuevo-centro-de-mecanizado-en-Burgos"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2022/Edscha%20Burgos_3105/Entorno-Edscha_web.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp crece en Japón Gestamp Hotstamping Japan, la planta de producción que la multinacional tiene en el país asiático, ha decidido ampliarse doblando el tamaño de sus instalaciones de Matsusaka.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2022/Gestamp-crece-en-Japon-sumando-una-nueva-ampliacion-a-su-planta-de-Matsusaka</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2022/Gestamp-crece-en-Japon-sumando-una-nueva-ampliacion-a-su-planta-de-Matsusaka</guid>
+      <pubDate>Wed, 25 May 2022 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp Hotstamping Japan, la planta de producción que la multinacional tiene en el país asiático, ha decidido ampliarse doblando el tamaño de sus instalaciones de Matsusaka.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2022/Gestamp-crece-en-Japon-sumando-una-nueva-ampliacion-a-su-planta-de-Matsusaka"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2022/Japan_2505/Foto-web.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp presenta resultados del primer trimestre de 2022 Gestamp presentó hoy sus resultados financieros correspondientes al primer trimestre de 2022. Los buenos resultados reflejan el posicionamiento sólido y estratégico y su resiliencia para afrontar con éxito un contexto desafiante de mercado.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2022/Gestamp-registra-un-incremento-de-ingresos-del-7-interanual-y-niveles-de-beneficio-pre-Covid</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2022/Gestamp-registra-un-incremento-de-ingresos-del-7-interanual-y-niveles-de-beneficio-pre-Covid</guid>
+      <pubDate>Tue, 10 May 2022 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp presentó hoy sus resultados financieros correspondientes al primer trimestre de 2022. Los buenos resultados reflejan el posicionamiento sólido y estratégico y su resiliencia para afrontar con éxito un contexto desafiante de mercado.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2022/Gestamp-registra-un-incremento-de-ingresos-del-7-interanual-y-niveles-de-beneficio-pre-Covid"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2022/Q1_Results/JGA_web.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Edscha se asocia con Aditya Auto Edscha ha firmado un acuerdo de joint venture con el proveedor de automoción indio Aditya Auto Products &amp; Engineering. Esta cooperación se extiende al desarrollo, fabricación y distribución de sistemas de bisagras, controles de puertas, pestillos y frenos de mano.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2022/Edscha-se-asocia-con-el-proveedor-de-automocion-indio-Aditya-Auto</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2022/Edscha-se-asocia-con-el-proveedor-de-automocion-indio-Aditya-Auto</guid>
+      <pubDate>Thu, 05 May 2022 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Edscha ha firmado un acuerdo de joint venture con el proveedor de automoción indio Aditya Auto Products &amp; Engineering. Esta cooperación se extiende al desarrollo, fabricación y distribución de sistemas de bisagras, controles de puertas, pestillos y frenos de mano.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2022/Edscha-se-asocia-con-el-proveedor-de-automocion-indio-Aditya-Auto"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2022/Aditya_0505/Edscha-Aditya-Teams-(1).jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Material compuesto reforzado con fibra, en chasis Debido a las nuevas regulaciones de emisiones y al aumento de la movilidad eléctrica, los componentes ligeros y seguros continúan siendo impulsores de futuras aplicaciones de movilidad.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2022/La-aplicacion-de-material-compuesto-reforzado-con-fibra-en-piezas-de-chasis-en-serie</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2022/La-aplicacion-de-material-compuesto-reforzado-con-fibra-en-piezas-de-chasis-en-serie</guid>
+      <pubDate>Mon, 21 Mar 2022 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Debido a las nuevas regulaciones de emisiones y al aumento de la movilidad eléctrica, los componentes ligeros y seguros continúan siendo impulsores de futuras aplicaciones de movilidad.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2022/La-aplicacion-de-material-compuesto-reforzado-con-fibra-en-piezas-de-chasis-en-serie"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2022/EcoDinamics_2103/Lenker.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Ignacio Mosquera Vázquez, nuevo CFO Gestamp ha nombrado como Chief Financial Officer (CFO) a Ignacio Mosquera Vázquez, hasta ahora Senior Vice President y Group Treasurer de Philips.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2022/Gestamp-nombra-nuevo-director-financiero-a-Ignacio-Mosquera-Vazquez</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2022/Gestamp-nombra-nuevo-director-financiero-a-Ignacio-Mosquera-Vazquez</guid>
+      <pubDate>Wed, 16 Mar 2022 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp ha nombrado como Chief Financial Officer (CFO) a Ignacio Mosquera Vázquez, hasta ahora Senior Vice President y Group Treasurer de Philips.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2022/Gestamp-nombra-nuevo-director-financiero-a-Ignacio-Mosquera-Vazquez"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2022/CFO_1603/Ignacio-Mosquera-Vazquez-JPG.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Sobre la situación en Ucrania Gestamp lamenta la trágica situación por la que están pasando las personas en Ucrania, así como el impacto para empresas y países de todo el mundo.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2022/Sobre-la-situacion-en-Ucrania</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2022/Sobre-la-situacion-en-Ucrania</guid>
+      <pubDate>Mon, 07 Mar 2022 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp lamenta la trágica situación por la que están pasando las personas en Ucrania, así como el impacto para empresas y países de todo el mundo.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2022/Sobre-la-situacion-en-Ucrania"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2022/Ukraine_statement%200703/Logo-Gestamp.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>César Pontvianne de la Maza nombrado nuevo CEO de Edscha El proveedor internacional de automoción Edscha, que forma parte deGestamp desde 2010, tiene nueva alta dirección. César Pontvianne de la Maza asume su puesto como Consejero Delegado de Grupo Edscha.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2022/Cesar-Pontvianne-de-la-Maza-nombrado-nuevo-Consejero-Delegado-(CEO)-de-Grupo-Edscha</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2022/Cesar-Pontvianne-de-la-Maza-nombrado-nuevo-Consejero-Delegado-(CEO)-de-Grupo-Edscha</guid>
+      <pubDate>Thu, 03 Mar 2022 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;El proveedor internacional de automoción Edscha, que forma parte deGestamp desde 2010, tiene nueva alta dirección. César Pontvianne de la Maza asume su puesto como Consejero Delegado de Grupo Edscha.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2022/Cesar-Pontvianne-de-la-Maza-nombrado-nuevo-Consejero-Delegado-(CEO)-de-Grupo-Edscha"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2022/Edscha_CesarP_0303/Cesar-Pontvianne-de-la-Maza.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp supera todos sus objetivos del 2021 Gestamp presentó hoy sus resultados anuales de 2021. Los resultados son una muestra más de que las medidas de eficiencia y flexibilización implementadas desde 2020 han conseguido consolidar a la compañía en unos niveles de rentabilidad superiores a los de pre-pandemia (2019), pese a los menores volúmenes de mercado y la inestabilidad en la producción debido a la escasez de suministros que se ha registrado durante el año.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2022/Gestamp-supera-todos-sus-objetivos-del-2021</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2022/Gestamp-supera-todos-sus-objetivos-del-2021</guid>
+      <pubDate>Mon, 28 Feb 2022 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp presentó hoy sus resultados anuales de 2021. Los resultados son una muestra más de que las medidas de eficiencia y flexibilización implementadas desde 2020 han conseguido consolidar a la compañía en unos niveles de rentabilidad superiores a los de pre-pandemia (2019), pese a los menores volúmenes de mercado y la inestabilidad en la producción debido a la escasez de suministros que se ha registrado durante el año.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2022/Gestamp-supera-todos-sus-objetivos-del-2021"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2022/FY%20Results%202021/Gestamp.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp se alía con POWEN para impulsar el autoconsumo Gestamp ha firmado con POWEN un contrato marco de compraventa de energía onsite fotovoltaica, lo que significa que las placas solares se situarán en la parte superior de la propia fábrica para permitir el autoconsumo energético.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2022/Gestamp-se-alia-con-POWEN-para-impulsar-el-autoconsumo-en-sus-fabricas</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2022/Gestamp-se-alia-con-POWEN-para-impulsar-el-autoconsumo-en-sus-fabricas</guid>
+      <pubDate>Tue, 22 Feb 2022 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp ha firmado con POWEN un contrato marco de compraventa de energía onsite fotovoltaica, lo que significa que las placas solares se situarán en la parte superior de la propia fábrica para permitir el autoconsumo energético.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2022/Gestamp-se-alia-con-POWEN-para-impulsar-el-autoconsumo-en-sus-fabricas"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2022/Gestamp-Powen%202202/Firma-Gestamp-Powen-def-2-web.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Los perfiles profesionales que más demandará la industria española La tendencia del sector empresarial se dirige la aplicación de la tecnología big data e inteligencia artificial (IA) en toda la cadena de valor de la industria. Esto significa que, a lo largo de los próximos años, las compañías necesitarán contar entre sus equipos con profesionales expertos capaces de desenvolverse sin dificultades en las materias relacionadas con estas dos tecnologías.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2022/Los-12-perfiles-profesionales-que-mas-demandara-la-industria-espanola</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2022/Los-12-perfiles-profesionales-que-mas-demandara-la-industria-espanola</guid>
+      <pubDate>Tue, 25 Jan 2022 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;La tendencia del sector empresarial se dirige la aplicación de la tecnología big data e inteligencia artificial (IA) en toda la cadena de valor de la industria. Esto significa que, a lo largo de los próximos años, las compañías necesitarán contar entre sus equipos con profesionales expertos capaces de desenvolverse sin dificultades en las materias relacionadas con estas dos tecnologías.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2022/Los-12-perfiles-profesionales-que-mas-demandara-la-industria-espanola"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2022/Indesia_Perfiles%20Formativos%202601/IndesIA-copia.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp obtiene el certificado Residuo Cero de AENOR Gestamp ha recibido la certificación Residuo Cero de AENOR. Gestamp se convierte en la primera empresa del sector del automóvil que lo consigue, lo que supone un reconocimiento a la organización, ya que pone en valor el modelo de Economía Circular de Gestamp, capaz de introducir de nuevo en la cadena de valor los residuos que genera.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2021/Gestamp,-primera-empresa-del-sector-de-automocion-que-obtiene-el-certificado-Residuo-Cero-de-AENOR</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2021/Gestamp,-primera-empresa-del-sector-de-automocion-que-obtiene-el-certificado-Residuo-Cero-de-AENOR</guid>
+      <pubDate>Mon, 20 Dec 2021 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp ha recibido la certificación Residuo Cero de AENOR. Gestamp se convierte en la primera empresa del sector del automóvil que lo consigue, lo que supone un reconocimiento a la organización, ya que pone en valor el modelo de Economía Circular de Gestamp, capaz de introducir de nuevo en la cadena de valor los residuos que genera.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2021/Gestamp,-primera-empresa-del-sector-de-automocion-que-obtiene-el-certificado-Residuo-Cero-de-AENOR"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2021/11.%20AENOR_2012/infografia_residuos_Gestamp_ES-web.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>IndesIA elige su junta directiva Liderada por Repsol, Gestamp, Navantia, Técnicas Reunidas, Telefónica, Microsoft, Airbus y Ferrovial, el objetivo de la asociación es posicionar a España como referente en el uso de los datos y la inteligencia artificial en el ámbito industrial.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2021/IndesIA-elige-su-junta-directiva-para-impulsar-la-Inteligencia-Artificial-en-la-industria-espanola</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2021/IndesIA-elige-su-junta-directiva-para-impulsar-la-Inteligencia-Artificial-en-la-industria-espanola</guid>
+      <pubDate>Wed, 15 Dec 2021 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Liderada por Repsol, Gestamp, Navantia, Técnicas Reunidas, Telefónica, Microsoft, Airbus y Ferrovial, el objetivo de la asociación es posicionar a España como referente en el uso de los datos y la inteligencia artificial en el ámbito industrial.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2021/IndesIA-elige-su-junta-directiva-para-impulsar-la-Inteligencia-Artificial-en-la-industria-espanola"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2021/10.%20IndesIA_Board_1412/INDESIA.jpeg?ext=.jpeg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp registró unos ingresos de 5.879 millones de euros en los 9M 2021 Gestamp ha presentado hoy sus resultados para los primeros nueve meses de 2021 con unos ingresos que alcanzan los 5.879 millones de euros y un beneficio neto de 101 millones de euros a pesar de las desafiantes condiciones del mercado.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2021/Gestamp-registro-unos-ingresos-de-5-879-millones-de-euros-en-los-9M-2021</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2021/Gestamp-registro-unos-ingresos-de-5-879-millones-de-euros-en-los-9M-2021</guid>
+      <pubDate>Thu, 28 Oct 2021 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp ha presentado hoy sus resultados para los primeros nueve meses de 2021 con unos ingresos que alcanzan los 5.879 millones de euros y un beneficio neto de 101 millones de euros a pesar de las desafiantes condiciones del mercado.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2021/Gestamp-registro-unos-ingresos-de-5-879-millones-de-euros-en-los-9M-2021"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2021/9.%209M%20Results/Resultados-WEB.jpeg?ext=.jpeg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp firma un acuerdo con ArcelorMittal para utilizar certificados de acero verde XCarb® Gestamp ha firmado un acuerdo con ArcelorMittal para comenzar a utilizar certificados de acero verde XCarb® para la producción de componentes de automoción, como parte de una ambiciosa estrategia de sostenibilidad dirigida a lograr la descarbonización en todas sus operaciones.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2021/Gestamp-firma-un-acuerdo-con-ArcelorMittal-para-utilizar-certificados-de-acero-verde-XCarb®</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2021/Gestamp-firma-un-acuerdo-con-ArcelorMittal-para-utilizar-certificados-de-acero-verde-XCarb®</guid>
+      <pubDate>Wed, 20 Oct 2021 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp ha firmado un acuerdo con ArcelorMittal para comenzar a utilizar certificados de acero verde XCarb® para la producción de componentes de automoción, como parte de una ambiciosa estrategia de sostenibilidad dirigida a lograr la descarbonización en todas sus operaciones.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2021/Gestamp-firma-un-acuerdo-con-ArcelorMittal-para-utilizar-certificados-de-acero-verde-XCarb®"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2021/8.%20ArcelorMittal_XCarb%c2%aegreen%20steel/HOT-STAMPING-para-Twitter.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Airbus y Ferrovial se incorporan a IndesIA Con la incorporación de Airbus y Ferrovial, IndesIA avanza en su objetivo de sumar al consorcio a las principales empresas industriales del país y orientarse al desarrollo de casos de aplicación de la tecnolo-gía big data e inteligencia artificial (IA) que resuelvan los retos del sector industrial de forma transversal y que sean aplicables a toda la cadena de valor de las empresas.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2021/Airbus-y-Ferrovial-se-incorporan-a-IndesIA,-el-consorcio-de-inteligencia-artificial-de-la-industria</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2021/Airbus-y-Ferrovial-se-incorporan-a-IndesIA,-el-consorcio-de-inteligencia-artificial-de-la-industria</guid>
+      <pubDate>Tue, 19 Oct 2021 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Con la incorporación de Airbus y Ferrovial, IndesIA avanza en su objetivo de sumar al consorcio a las principales empresas industriales del país y orientarse al desarrollo de casos de aplicación de la tecnolo-gía big data e inteligencia artificial (IA) que resuelvan los retos del sector industrial de forma transversal y que sean aplicables a toda la cadena de valor de las empresas.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2021/Airbus-y-Ferrovial-se-incorporan-a-IndesIA,-el-consorcio-de-inteligencia-artificial-de-la-industria"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2021/7.%20INDESIA_Airbus%20y%20Ferrovial/indesia-300x162.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp alcanzó un beneficio neto de 83 millones de euros en el primer semestre La compañía ha alcanzado en el segundo trimestre 32 millones de euros de beneficio neto frente a los -134 millones de euros en el 2T 2020 y los ingresos durante este periodo han ascendido a 1.967 millones de euros, lo que supone un incremento del 95,9% a tipo de cambio constante frente al 2T 2020, superando en un 49,8% a los mercados donde Gestamp tiene presencia.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2021/Gestamp-alcanzo-un-beneficio-neto-de-83-millones-de-euros-en-el-primer-semestre</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2021/Gestamp-alcanzo-un-beneficio-neto-de-83-millones-de-euros-en-el-primer-semestre</guid>
+      <pubDate>Mon, 26 Jul 2021 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;La compañía ha alcanzado en el segundo trimestre 32 millones de euros de beneficio neto frente a los -134 millones de euros en el 2T 2020 y los ingresos durante este periodo han ascendido a 1.967 millones de euros, lo que supone un incremento del 95,9% a tipo de cambio constante frente al 2T 2020, superando en un 49,8% a los mercados donde Gestamp tiene presencia.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2021/Gestamp-alcanzo-un-beneficio-neto-de-83-millones-de-euros-en-el-primer-semestre"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2021/06.%20H1%20Results/Robots_planta-de-produccion.jpeg?ext=.jpeg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp 2021 Capital Markets Day Gestamp celebra hoy su primer Capital Markets Day con el objetivo de proporcionar una actualización sobre el entorno de mercado, su posicionamiento estratégico y los objetivos financieros.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2021/Gestamp-2021-Capital-Markets-Day</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2021/Gestamp-2021-Capital-Markets-Day</guid>
+      <pubDate>Tue, 15 Jun 2021 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp celebra hoy su primer Capital Markets Day con el objetivo de proporcionar una actualización sobre el entorno de mercado, su posicionamiento estratégico y los objetivos financieros.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2021/Gestamp-2021-Capital-Markets-Day"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/GestampStories/2021/4.-%20CMD/Q-A-2.JPG?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Seis grandes empresas crean el primer consorcio de inteligencia artificial de la industria en España Repsol, Gestamp, Navantia, Técnicas Reunidas, Telefónica y Microsoft promueven IndesIA, un consorcio estratégico de ámbito nacional, con vocación europea y voluntad de integrar a otras empresas y sectores.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2021/Seis-grandes-empresas-crean-el-primer-consorcio-de-inteligencia-artificial-de-la-industria-en-Espana</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2021/Seis-grandes-empresas-crean-el-primer-consorcio-de-inteligencia-artificial-de-la-industria-en-Espana</guid>
+      <pubDate>Tue, 15 Jun 2021 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Repsol, Gestamp, Navantia, Técnicas Reunidas, Telefónica y Microsoft promueven IndesIA, un consorcio estratégico de ámbito nacional, con vocación europea y voluntad de integrar a otras empresas y sectores.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2021/Seis-grandes-empresas-crean-el-primer-consorcio-de-inteligencia-artificial-de-la-industria-en-Espana"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2021/5.%20INDESIA/IndesIA.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp multiplica por más de 3 su beneficio neto Gestamp ha alcanzado los 51 millones de euros de beneficio neto en el primer trimestre de 2021, frente a los 14 millones del primer trimestre de 2020 y los 41 millones del primer trimestre de 2019, respectivamente.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2021/Gestamp-multiplica-por-mas-de-3-su-beneficio-neto-en-el-primer-trimestre-hasta-los-51-m€</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2021/Gestamp-multiplica-por-mas-de-3-su-beneficio-neto-en-el-primer-trimestre-hasta-los-51-m€</guid>
+      <pubDate>Thu, 06 May 2021 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp ha alcanzado los 51 millones de euros de beneficio neto en el primer trimestre de 2021, frente a los 14 millones del primer trimestre de 2020 y los 41 millones del primer trimestre de 2019, respectivamente.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2021/Gestamp-multiplica-por-mas-de-3-su-beneficio-neto-en-el-primer-trimestre-hasta-los-51-m€"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2021/3.%20Q1%20Results/Gestamp-Results-Q1-2021.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp facturó 7.456 millones de euros en un 2020 sin precedentes Gestamp presentó hoy sus resultados anuales de 2020 con unos ingresos de 7.456 millones de euros, un -17,8% menos (-13,6% a tipo de cambio constante), con respecto a 2019. Esto representa una mejora de 7,8 puntos porcentuales frente al mercado mundial de producción de automóviles.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2021/Gestamp-facturo-7-456-millones-de-euros-en-un-2020-sin-precedentes</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2021/Gestamp-facturo-7-456-millones-de-euros-en-un-2020-sin-precedentes</guid>
+      <pubDate>Wed, 24 Feb 2021 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp presentó hoy sus resultados anuales de 2020 con unos ingresos de 7.456 millones de euros, un -17,8% menos (-13,6% a tipo de cambio constante), con respecto a 2019. Esto representa una mejora de 7,8 puntos porcentuales frente al mercado mundial de producción de automóviles.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2021/Gestamp-facturo-7-456-millones-de-euros-en-un-2020-sin-precedentes"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2021/2.%20Annual%20Results/Robots_planta-de-produccion.jpeg?ext=.jpeg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp firma un acuerdo con Naturgy para que toda su electricidad en España sea renovable Gestamp ha firmado un acuerdo con Naturgy para que todo su suministro eléctrico en España provenga de fuentes de energía renovable. El acuerdo logrará que a partir de 2022 todos los centros productivos y de I+D que el grupo tiene en España funcionen con energía 100% renovable.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2021/Gestamp-firma-un-acuerdo-con-Naturgy-para-que-toda-su-electricidad-en-Espana-sea-renovable</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2021/Gestamp-firma-un-acuerdo-con-Naturgy-para-que-toda-su-electricidad-en-Espana-sea-renovable</guid>
+      <pubDate>Thu, 18 Feb 2021 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp ha firmado un acuerdo con Naturgy para que todo su suministro eléctrico en España provenga de fuentes de energía renovable. El acuerdo logrará que a partir de 2022 todos los centros productivos y de I+D que el grupo tiene en España funcionen con energía 100% renovable.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2021/Gestamp-firma-un-acuerdo-con-Naturgy-para-que-toda-su-electricidad-en-Espana-sea-renovable"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2021/1.%20Naturgy-Gestamp/Gestamp-Navarra_exterior.JPG?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Telefónica y Gestamp impulsan la digitalización de la industria con un caso de fábrica conectada 5G Telefónica y Gestamp han implantado en una de sus factorías de Barcelona un caso de uso de fábrica conectada con 5G para avanzar en la Industria 4.0 gracias a esta tecnología.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2020/Telefonica-y-Gestamp-impulsan-la-digitalizacion-de-la-industria-con-un-caso-de-fabrica-conectada-5G</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2020/Telefonica-y-Gestamp-impulsan-la-digitalizacion-de-la-industria-con-un-caso-de-fabrica-conectada-5G</guid>
+      <pubDate>Tue, 10 Nov 2020 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Telefónica y Gestamp han implantado en una de sus factorías de Barcelona un caso de uso de fábrica conectada con 5G para avanzar en la Industria 4.0 gracias a esta tecnología.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2020/Telefonica-y-Gestamp-impulsan-la-digitalizacion-de-la-industria-con-un-caso-de-fabrica-conectada-5G"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2020/Telef%c3%b3nica%20Gestamp%205G/Fabrica-Gestamp.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp mejora su tercer trimestre respecto al de 2019 Gestamp ha registrado un sólido resultado en el tercer trimestre, con un aumento del EBITDA y una fuerte generación de flujo de caja a pesar de las desafiantes condiciones del mercado.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2020/Gestamp-mejora-su-tercer-trimestre-respecto-al-de-2019</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2020/Gestamp-mejora-su-tercer-trimestre-respecto-al-de-2019</guid>
+      <pubDate>Thu, 29 Oct 2020 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp ha registrado un sólido resultado en el tercer trimestre, con un aumento del EBITDA y una fuerte generación de flujo de caja a pesar de las desafiantes condiciones del mercado.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2020/Gestamp-mejora-su-tercer-trimestre-respecto-al-de-2019"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2020/Gestamp%20mejora%20su%20tercer%20trimestre/Gestamp.JPG?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp supera el semestre más duro de su historia Gestamp ha presentado sus resultados correspondientes al segundo trimestre y el primer semestre de 2020, en los que la compañía reaccionó rápidamente a una disrupción sin precedentes del mercado debido al COVID-19 y ha acreditado contar con un modelo de negocio flexible y resiliente.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2020/Gestamp-supera-el-semestre-mas-duro-de-su-historia-ante-el-COVID-19</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2020/Gestamp-supera-el-semestre-mas-duro-de-su-historia-ante-el-COVID-19</guid>
+      <pubDate>Thu, 30 Jul 2020 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp ha presentado sus resultados correspondientes al segundo trimestre y el primer semestre de 2020, en los que la compañía reaccionó rápidamente a una disrupción sin precedentes del mercado debido al COVID-19 y ha acreditado contar con un modelo de negocio flexible y resiliente.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2020/Gestamp-supera-el-semestre-mas-duro-de-su-historia-ante-el-COVID-19"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2020/Gestamp%20supera%20el%20semestre%20m%c3%a1s%20duro%20de%20su%20historia/Resultados-3007-Welding-Robots-(002).jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El BEI financia la estrategia de I+D+i de Gestamp con 200 millones de euros La multinacional española Gestamp recibirá un préstamo de 200 millones de euros del Banco Europeo de Inversiones, BEI, para desarrollar nuevas líneas de investigación que permitan fabricar coches más seguros y ligeros y, por tanto, más respetuosos con el medio ambiente.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2020/Apoyo-a-la-innovacion-en-la-industria-del-automovil-europea-el-BEI-financia-la-estrategia-de-I-D-i</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2020/Apoyo-a-la-innovacion-en-la-industria-del-automovil-europea-el-BEI-financia-la-estrategia-de-I-D-i</guid>
+      <pubDate>Tue, 26 May 2020 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;La multinacional española Gestamp recibirá un préstamo de 200 millones de euros del Banco Europeo de Inversiones, BEI, para desarrollar nuevas líneas de investigación que permitan fabricar coches más seguros y ligeros y, por tanto, más respetuosos con el medio ambiente.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2020/Apoyo-a-la-innovacion-en-la-industria-del-automovil-europea-el-BEI-financia-la-estrategia-de-I-D-i"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2020/BEI/Gestamp-BEI.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp facturó 2.011 millones de euros en los tres primeros meses de 2020 Gestamp presentó hoy sus resultados para los primeros tres meses de 2020 con una facturación de 2.011 millones de euros, a pesar de la incertidumbre en el mercado derivada de la pandemia COVID-19.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2020/Gestamp-facturo-2-011-millones-de-euros-en-los-tres-primeros-meses-de-2020</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2020/Gestamp-facturo-2-011-millones-de-euros-en-los-tres-primeros-meses-de-2020</guid>
+      <pubDate>Mon, 18 May 2020 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp presentó hoy sus resultados para los primeros tres meses de 2020 con una facturación de 2.011 millones de euros, a pesar de la incertidumbre en el mercado derivada de la pandemia COVID-19.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2020/Gestamp-facturo-2-011-millones-de-euros-en-los-tres-primeros-meses-de-2020"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2020/Gestamp%20factur%c3%b3%202.011%20millones%20de%20euros%20en%20los%20tre/Gestamp_Q1-results-2020.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp facturó 9.065 millones de euros en 2019 Gestamp está preparado para ofrecer un desarrollo y rendimiento sostenibles. Para lograrlos las soluciones de aligeramiento continuarán siendo clave, con un enfoque cada vez mayor en la reducción de emisiones de CO2 y en el aumento progresivo de la penetración del vehículo eléctrico.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2020/Gestamp-facturo-9-065-millones-de-euros-en-2019</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2020/Gestamp-facturo-9-065-millones-de-euros-en-2019</guid>
+      <pubDate>Thu, 27 Feb 2020 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp está preparado para ofrecer un desarrollo y rendimiento sostenibles. Para lograrlos las soluciones de aligeramiento continuarán siendo clave, con un enfoque cada vez mayor en la reducción de emisiones de CO2 y en el aumento progresivo de la penetración del vehículo eléctrico.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2020/Gestamp-facturo-9-065-millones-de-euros-en-2019"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2020/Gestamp%20registra%20unos%20ingresos%20de%209.065%20millone/Resultados-2019.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp nombra directora financiera a Carmen de Pablo Gestamp, la empresa multinacional española especializada en el diseño, desarrollo y fabricación de componentes metálicos de alta ingeniería para la industria del automóvil, ha nombrado como directora financiera (CFO) a Carmen de Pablo Redondo quien ocupaba hasta ahora la dirección de Desarrollo Corporativo y Relaciones con Inversores.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2019/Gestamp-nombra-directora-financiera-a-Carmen-de-Pablo</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2019/Gestamp-nombra-directora-financiera-a-Carmen-de-Pablo</guid>
+      <pubDate>Thu, 19 Dec 2019 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp, la empresa multinacional española especializada en el diseño, desarrollo y fabricación de componentes metálicos de alta ingeniería para la industria del automóvil, ha nombrado como directora financiera (CFO) a Carmen de Pablo Redondo quien ocupaba hasta ahora la dirección de Desarrollo Corporativo y Relaciones con Inversores.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2019/Gestamp-nombra-directora-financiera-a-Carmen-de-Pablo"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2019/12_19%20CFO/Carmen-de-Pablo_web2.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp factura 6.572 millones de euros en los 9 primeros meses de 2019 Gestamp, multinacional especializada en el diseño, desarrollo y fabricación de componentes metálicos de alta ingeniería para la industria de la automoción, ha presentado hoy sus resultados para los nueve primeros meses de 2019, con una facturación de 6.572 millones de euros.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2019/Gestamp-incrementa-sus-ingresos-un-6,8-en-los-nueve-primeros-meses-hasta-6-572-millones-de-euros</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2019/Gestamp-incrementa-sus-ingresos-un-6,8-en-los-nueve-primeros-meses-hasta-6-572-millones-de-euros</guid>
+      <pubDate>Thu, 31 Oct 2019 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp, multinacional especializada en el diseño, desarrollo y fabricación de componentes metálicos de alta ingeniería para la industria de la automoción, ha presentado hoy sus resultados para los nueve primeros meses de 2019, con una facturación de 6.572 millones de euros.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2019/Gestamp-incrementa-sus-ingresos-un-6,8-en-los-nueve-primeros-meses-hasta-6-572-millones-de-euros"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2019/10_31%20Results%209M/Gestamp.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Marieta del Rivero, nueva consejera independiente El Consejo de Administración de Gestamp nombró a Marieta del Rivero nueva Consejera Independiente de la Compañía. El nombramiento se hizo efectivo hoy, cuando ha aceptado formalmente el cargo.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2019/Gestamp-nombra-a-Marieta-del-Rivero-nueva-consejera-independiente</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2019/Gestamp-nombra-a-Marieta-del-Rivero-nueva-consejera-independiente</guid>
+      <pubDate>Mon, 29 Jul 2019 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;El Consejo de Administración de Gestamp nombró a Marieta del Rivero nueva Consejera Independiente de la Compañía. El nombramiento se hizo efectivo hoy, cuando ha aceptado formalmente el cargo.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2019/Gestamp-nombra-a-Marieta-del-Rivero-nueva-consejera-independiente"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2019/07_29%20Consejera/Marieta-del-Rivero_web.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp registra unos ingresos de 4.513 millones de € en el primer semestre Gestamp, multinacional especializada en el diseño, desarrollo y fabricación de componentes metálicos de alta ingeniería para la industria del automóvil ha presentado sus resultados para el segundo trimestre y primer semestre de 2019.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2019/Gestamp-registra-unos-ingresos-de-4-513-millones-de-euros-en-el-primer-semestre</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2019/Gestamp-registra-unos-ingresos-de-4-513-millones-de-euros-en-el-primer-semestre</guid>
+      <pubDate>Thu, 25 Jul 2019 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp, multinacional especializada en el diseño, desarrollo y fabricación de componentes metálicos de alta ingeniería para la industria del automóvil ha presentado sus resultados para el segundo trimestre y primer semestre de 2019.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2019/Gestamp-registra-unos-ingresos-de-4-513-millones-de-euros-en-el-primer-semestre"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2019/07_25%20H1%20Results/Planta-de-Gestamp.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp inaugura una nueva planta en Eslovaquia Gestamp inauguró hoy una nueva planta especializada en aluminio en Nitra (Eslovaquia).</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2019/Gestamp-inaugura-una-nueva-planta-en-Eslovaquia</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2019/Gestamp-inaugura-una-nueva-planta-en-Eslovaquia</guid>
+      <pubDate>Thu, 27 Jun 2019 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp inauguró hoy una nueva planta especializada en aluminio en Nitra (Eslovaquia).&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2019/Gestamp-inaugura-una-nueva-planta-en-Eslovaquia"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/GestampFiles/Media/Press/Press%20Releases/2019/Nitra%20Opening/Francisco-J-Riberas,-Gestamp-Executive-Chairman.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp facturó 2.170 millones de euros en los tres primeros meses de 2019 Gestamp ha aumentado su facturación durante el primer trimestre de 2019 y ha alcanzado los 2.170 millones de euros, lo que representa un crecimiento del 6,8% a tipo de cambio constante respecto al primer trimestre de 2018.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2019/Gestamp-facturo-2-170-millones-de-euros-en-los-tres-primeros-meses-de-2019</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2019/Gestamp-facturo-2-170-millones-de-euros-en-los-tres-primeros-meses-de-2019</guid>
+      <pubDate>Mon, 06 May 2019 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp ha aumentado su facturación durante el primer trimestre de 2019 y ha alcanzado los 2.170 millones de euros, lo que representa un crecimiento del 6,8% a tipo de cambio constante respecto al primer trimestre de 2018.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2019/Gestamp-facturo-2-170-millones-de-euros-en-los-tres-primeros-meses-de-2019"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2019/05_General%20Shareholders%20Meeting%202019/Photo-Gestamp-General-Shareholders-Meeting.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp anuncia en el Auto Shanghái 2019 una mayor cooperación con BHAP Gestamp ha firmado hoy un memorándum de entendimiento (MOU por sus siglas en inglés) con el grupo Beijing Hainachuan Automotive Parts Co. Ltd. (BHAP).</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2019/Gestamp-anuncia-en-el-Auto-Shanghai-2019-una-mayor-cooperacion-con-BHAP-es</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2019/Gestamp-anuncia-en-el-Auto-Shanghai-2019-una-mayor-cooperacion-con-BHAP-es</guid>
+      <pubDate>Mon, 06 May 2019 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp ha firmado hoy un memorándum de entendimiento (MOU por sus siglas en inglés) con el grupo Beijing Hainachuan Automotive Parts Co. Ltd. (BHAP).&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2019/Gestamp-anuncia-en-el-Auto-Shanghai-2019-una-mayor-cooperacion-con-BHAP-es"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2019/04_Auto%20Shanghai/Francisco-J-Riberas-y-Cai-Suping_web.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp inaugura una nueva planta en México Gestamp ha inaugurado hoy su nueva planta en San Luis Potosí, México.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2019/Gestamp-inaugura-una-nueva-planta-en-Mexico</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2019/Gestamp-inaugura-una-nueva-planta-en-Mexico</guid>
+      <pubDate>Tue, 19 Mar 2019 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp ha inaugurado hoy su nueva planta en San Luis Potosí, México.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2019/Gestamp-inaugura-una-nueva-planta-en-Mexico"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2019/03_19%20Opening%20San%20Luis%20de%20Potosi/San-Luis-Potosi_1.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp facturó 8.548 millones de euros en 2018 Gestamp, la multinacional española especializada en el diseño, desarrollo y fabricación de componentes de alta ingeniería para la automoción, ha presentado sus resultados de 2018 con una facturación de 8.548 millones de euros, lo que representa un crecimiento del 4,2%, un 10,2% a tipo de cambio constante.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2019/Gestamp-facturo-8-548-millones-de-euros-en-2018</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2019/Gestamp-facturo-8-548-millones-de-euros-en-2018</guid>
+      <pubDate>Thu, 28 Feb 2019 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp, la multinacional española especializada en el diseño, desarrollo y fabricación de componentes de alta ingeniería para la automoción, ha presentado sus resultados de 2018 con una facturación de 8.548 millones de euros, lo que representa un crecimiento del 4,2%, un 10,2% a tipo de cambio constante.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2019/Gestamp-facturo-8-548-millones-de-euros-en-2018"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2019/02_28%20Results%202018/Gestamp-Hot-Stamping-Japan-(1).JPG?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El Consejo de Administración de Gestamp aprueba una nueva política de dividendos El Consejo de Administración de Gestamp, la empresa multinacional especializada en el diseño, desarrollo y fabricación de componentes metálicos de alta ingeniería para la industria del automóvil, aprobó ayer una nueva política de dividendos.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/2018/El-Consejo-de-Administracion-de-Gestamp-aprueba-una-nueva-politica-de-dividendos</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/2018/El-Consejo-de-Administracion-de-Gestamp-aprueba-una-nueva-politica-de-dividendos</guid>
+      <pubDate>Tue, 18 Dec 2018 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;El Consejo de Administración de Gestamp, la empresa multinacional especializada en el diseño, desarrollo y fabricación de componentes metálicos de alta ingeniería para la industria del automóvil, aprobó ayer una nueva política de dividendos.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/2018/El-Consejo-de-Administracion-de-Gestamp-aprueba-una-nueva-politica-de-dividendos"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/2018/12_18%20Dividends%20Policy/Gestamp-Vehicle-WEB.jpg?ext=.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp compra una planta en Brasil que trabaja para Toyota Gestamp, multinacional española especializada en el diseño, desarrollo y fabricación de componentes para la automoción, ha anunciado que ha llegado a un acuerdo de compra de una planta en la localidad de Sorocaba, en el estado de São Paulo.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-compra-una-planta-en-Brasil-que-trabaja-para-Toyota</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-compra-una-planta-en-Brasil-que-trabaja-para-Toyota</guid>
+      <pubDate>Tue, 13 Feb 2018 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp, multinacional española especializada en el diseño, desarrollo y fabricación de componentes para la automoción, ha anunciado que ha llegado a un acuerdo de compra de una planta en la localidad de Sorocaba, en el estado de São Paulo.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-compra-una-planta-en-Brasil-que-trabaja-para-Toyota"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/k8/e430eb32-9794-4d60-9a15-0a85515fc4d5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp nombra nuevo director financiero Gestamp, la empresa multinacional española especializada en el diseño, desarrollo y fabricación de componentes metálicos de alta ingeniería para la industria del automóvil, ha acordado nombrar como director financiero a Miguel Escrig. Con esta decisión, el Grupo busca reforzar su estructura organizativa para acompañar el crecimiento de los próximos años.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-nombra-nuevo-director-financiero</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-nombra-nuevo-director-financiero</guid>
+      <pubDate>Wed, 07 Feb 2018 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp, la empresa multinacional española especializada en el diseño, desarrollo y fabricación de componentes metálicos de alta ingeniería para la industria del automóvil, ha acordado nombrar como director financiero a Miguel Escrig. Con esta decisión, el Grupo busca reforzar su estructura organizativa para acompañar el crecimiento de los próximos años.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-nombra-nuevo-director-financiero"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/k8/d3128a7b-9d4b-4887-967d-0d0f14377066.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp nombra a Francisco López Peña consejero delegado El Consejo de Administración de Gestamp, la empresa multinacional española especializada en el diseño, desarrollo y fabricación de componentes metálicos de alta ingeniería para la industria del automóvil, ha acordado nombrar a Francisco López Peña consejero delegado.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-nombra-a-Francisco-Lopez-Pena-consejero-delegado</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-nombra-a-Francisco-Lopez-Pena-consejero-delegado</guid>
+      <pubDate>Wed, 20 Dec 2017 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;El Consejo de Administración de Gestamp, la empresa multinacional española especializada en el diseño, desarrollo y fabricación de componentes metálicos de alta ingeniería para la industria del automóvil, ha acordado nombrar a Francisco López Peña consejero delegado.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-nombra-a-Francisco-Lopez-Pena-consejero-delegado"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/k8/239bbb94-09b7-441c-82ef-cb2415af5d18.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp inaugura un nuevo centro de I+D en Shanghái Gestamp, la multinacional española especializada en el diseño, desarrollo y fabricación de componentes metálicos de alta ingeniería para la industria de la automoción, abrió hoy un centro de I+D en Shanghái (China).</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-inaugura-un-nuevo-centro-de-I-D-en-Shanghai</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-inaugura-un-nuevo-centro-de-I-D-en-Shanghai</guid>
+      <pubDate>Wed, 22 Nov 2017 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp, la multinacional española especializada en el diseño, desarrollo y fabricación de componentes metálicos de alta ingeniería para la industria de la automoción, abrió hoy un centro de I+D en Shanghái (China).&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-inaugura-un-nuevo-centro-de-I-D-en-Shanghai"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/k8/6d7372e6-a746-4fce-b112-645103024a64.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp inaugura la primera línea de estampación en caliente de Aragón La consejera de Economía, Industria y Empleo de Aragón, Marta Gastón, ha inaugurado la primera línea de estampación en caliente de la Comunidad, con la que Gestamp realizará piezas de carrocería que reduzcan significativamente el peso de los vehículos y mejoren su seguridad.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-inaugura-la-primera-linea-de-estampacion-en-caliente-de-Aragon</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-inaugura-la-primera-linea-de-estampacion-en-caliente-de-Aragon</guid>
+      <pubDate>Thu, 11 May 2017 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;La consejera de Economía, Industria y Empleo de Aragón, Marta Gastón, ha inaugurado la primera línea de estampación en caliente de la Comunidad, con la que Gestamp realizará piezas de carrocería que reduzcan significativamente el peso de los vehículos y mejoren su seguridad.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-inaugura-la-primera-linea-de-estampacion-en-caliente-de-Aragon"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/k8/2ea4266d-5d12-4a08-a7d9-6f67913ea938.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp facturó 2.096 millones de euros en el primer trimestre Gestamp, la empresa multinacional española dedicada al diseño, desarrollo y fabricación de componentes para el automóvil facturó 2.096 millones de euros durante el primer trimestre de 2017, lo que supone un 16,1% más con respecto al primer trimestre de 2016. De este modo, Gestamp ha crecido tres veces más que el mercado global de producción de vehículos.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-facturo-2-096-millones-de-euros-en-el-primer-trimestre</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-facturo-2-096-millones-de-euros-en-el-primer-trimestre</guid>
+      <pubDate>Tue, 09 May 2017 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp, la empresa multinacional española dedicada al diseño, desarrollo y fabricación de componentes para el automóvil facturó 2.096 millones de euros durante el primer trimestre de 2017, lo que supone un 16,1% más con respecto al primer trimestre de 2016. De este modo, Gestamp ha crecido tres veces más que el mercado global de producción de vehículos.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-facturo-2-096-millones-de-euros-en-el-primer-trimestre"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/k8/9f3ef3d0-29f2-47f2-b28a-936ff232b747.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp refuerza su Consejo de Administración La Junta General Extraordinaria de Accionistas de Gestamp, celebrada hoy, ha nombrado al nuevo Consejo de Administración de la compañía, que estará formado por doce miembros con amplia experiencia industrial, financiera, tecnológica y con un claro enfoque internacional.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-refuerza-su-Consejo-de-Administracion</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-refuerza-su-Consejo-de-Administracion</guid>
+      <pubDate>Fri, 03 Mar 2017 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;La Junta General Extraordinaria de Accionistas de Gestamp, celebrada hoy, ha nombrado al nuevo Consejo de Administración de la compañía, que estará formado por doce miembros con amplia experiencia industrial, financiera, tecnológica y con un claro enfoque internacional.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-refuerza-su-Consejo-de-Administracion"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/k8/9ed0f6cb-4dc9-476e-99cb-ebb887de65e3.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp entra en Rumanía Gestamp, multinacional española especializada en el diseño, desarrollo y fabricación de componentes para la automoción, ha anunciado su entrada en Rumanía, mediante la compra mayoritaria de una sociedad rumana propietaria de una planta que tiene como cliente principal al Grupo Renault-Nissan a través de su filial Dacia.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-entra-en-Rumania</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-entra-en-Rumania</guid>
+      <pubDate>Wed, 01 Mar 2017 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp, multinacional española especializada en el diseño, desarrollo y fabricación de componentes para la automoción, ha anunciado su entrada en Rumanía, mediante la compra mayoritaria de una sociedad rumana propietaria de una planta que tiene como cliente principal al Grupo Renault-Nissan a través de su filial Dacia.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-entra-en-Rumania"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/k8/b3beac2c-fd61-44ee-aa3b-8184e8fc63f5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp anuncia la construcción de su primera planta en Japón Gestamp, multinacional española especializada en el diseño, desarrollo y fabricación de componentes para la automoción, ha anunciado la próxima construcción de su primera planta en Japón, en una ceremonia celebrada en la localidad de Matsusaka, en la que han participado el prefecto de Mie, Eikei Suzuki; el alcalde de Matsusaka, Masato Takegami; el CEO de Mitsui, Tatsuo Yasunaga y el presidente de Gestamp, Francisco J. Riberas.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-anuncia-la-construccion-de-su-primera-planta-en-Japon</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-anuncia-la-construccion-de-su-primera-planta-en-Japon</guid>
+      <pubDate>Thu, 23 Feb 2017 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp, multinacional española especializada en el diseño, desarrollo y fabricación de componentes para la automoción, ha anunciado la próxima construcción de su primera planta en Japón, en una ceremonia celebrada en la localidad de Matsusaka, en la que han participado el prefecto de Mie, Eikei Suzuki; el alcalde de Matsusaka, Masato Takegami; el CEO de Mitsui, Tatsuo Yasunaga y el presidente de Gestamp, Francisco J. Riberas.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-anuncia-la-construccion-de-su-primera-planta-en-Japon"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/k8/a7dfbbe9-ba5d-4d34-ac13-b3359269c751.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp reduce un 15% el consumo energético de sus plantas</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-reduce-un-15-el-consumo-energetico-de-sus-plantas</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-reduce-un-15-el-consumo-energetico-de-sus-plantas</guid>
+      <pubDate>Wed, 22 Feb 2017 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Siemens, gracias a una plataforma de gestión de energía eficiente basada en la nube y que utiliza el Big Data para optimizar el consumo, ha permitido a Gestamp, empresa líder en fabricación de componentes de metal para el automóvil, reducir hasta un 15% el consumo de energía en 14 de sus plantas. La compañía española especializada en el diseño, desarrollo y fabricación de componentes automovilísticos para la producción de coches más ligeros y seguros, ha elegido a Siemens como proveedor mundial para implementar este sistema y lograr optimizar así sus necesidades energéticas en una industria que es especialmente intensiva en consumo eléctrico.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-reduce-un-15-el-consumo-energetico-de-sus-plantas"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/k8/a2af5d4a-5963-493f-a5a8-d995127e3153.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp aumenta su EBITDA un 10,2% en el tercer trimestre respecto al año anterior La multinacional española dedicada al diseño, desarrollo y fabricación de componentes metálicos para el sector del automóvil Gestamp ha anunciado sus resultados correspondientes al tercer trimestre de 2016, en el que aumentó su beneficio operativo bruto (EBITDA) en un 10,2% al situarse en 177,6 millones de euros.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-aumenta-su-EBITDA-un-10,2-en-el-tercer-trimestre-respecto-al-ano-anterior</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-aumenta-su-EBITDA-un-10,2-en-el-tercer-trimestre-respecto-al-ano-anterior</guid>
+      <pubDate>Tue, 29 Nov 2016 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;La multinacional española dedicada al diseño, desarrollo y fabricación de componentes metálicos para el sector del automóvil Gestamp ha anunciado sus resultados correspondientes al tercer trimestre de 2016, en el que aumentó su beneficio operativo bruto (EBITDA) en un 10,2% al situarse en 177,6 millones de euros.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-aumenta-su-EBITDA-un-10,2-en-el-tercer-trimestre-respecto-al-ano-anterior"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/k8/1e2a6beb-e187-40a4-8cd0-a8e5c53c812d.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El lehendakari Urkullu preside la apertura de curso del Gestamp Technology Institute</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/El-lehendakari-Urkullu-preside-la-apertura-de-curso-del-Gestamp-Technology-Institute</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/El-lehendakari-Urkullu-preside-la-apertura-de-curso-del-Gestamp-Technology-Institute</guid>
+      <pubDate>Tue, 25 Oct 2016 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;El lehendakari, Íñigo Urkullu, ha acompañado a Gestamp, compañía multinacional especializada en la fabricación de componentes metálicos para vehículos, en la apertura del curso 2016-2017 del Gestamp Technology Institute (GTI). El acto, que ha servido como puesta de largo del centro, ha contado también con la presencia del diputado general de Bizkaia y presidente del Automotive Intelligence Center (AIC), Unai Rementeria, entre otras autoridades.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/El-lehendakari-Urkullu-preside-la-apertura-de-curso-del-Gestamp-Technology-Institute"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/k8/4de3b245-15e5-48c3-bef3-c40878971fa5.JPG" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp creció un 10% en el segundo trimestre de 2016 respecto al año anterior La multinacional española dedicada al diseño, desarrollo y fabricación de componentes metálicos para el sector del automóvil Gestamp ha anunciado sus resultados correspondientes al segundo trimestre de 2016, en el que aumentó sus ventas en 176 millones de euros, lo que supone un 10% de crecimiento respecto al mismo periodo del año anterior.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-crecio-un-10-en-el-segundo-trimestre-de-2016-respecto-al-ano-anterior</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-crecio-un-10-en-el-segundo-trimestre-de-2016-respecto-al-ano-anterior</guid>
+      <pubDate>Wed, 07 Sep 2016 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;La multinacional española dedicada al diseño, desarrollo y fabricación de componentes metálicos para el sector del automóvil Gestamp ha anunciado sus resultados correspondientes al segundo trimestre de 2016, en el que aumentó sus ventas en 176 millones de euros, lo que supone un 10% de crecimiento respecto al mismo periodo del año anterior.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-crecio-un-10-en-el-segundo-trimestre-de-2016-respecto-al-ano-anterior"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/k8/b3beac2c-fd61-44ee-aa3b-8184e8fc63f5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>113 alumnos han cursado el Máster Gestamp de Proyectos Industriales en sus cuatro ediciones</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/113-alumnos-han-cursado-el-Master-Gestamp-de-Proyectos-Industriales-en-sus-cuatro-ediciones</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/113-alumnos-han-cursado-el-Master-Gestamp-de-Proyectos-Industriales-en-sus-cuatro-ediciones</guid>
+      <pubDate>Mon, 18 Jul 2016 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Un total de 113 alumnos han pasado desde 2012 por las aulas del Máster en Dirección Internacional de Proyectos Industriales (Master in International Industrial Project Management, en su traducción en inglés), organizado por la compañía de componentes metálicos de automoción Gestamp y por la ICADE Business School de la Universidad Pontificia Comillas ICAI-ICADE. En la cuarta edición, 27 alumnos de 7 nacionalidades han cursado este año el máster, de los cuales se estima que el 70 por ciento pasarán a formar parte de la plantilla de Gestamp, compuesta por 33.000 empleados.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/113-alumnos-han-cursado-el-Master-Gestamp-de-Proyectos-Industriales-en-sus-cuatro-ediciones"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/k8/b1748488-ca3e-4834-a198-2e9c9bc44ec2.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp construirá su sexta planta en México La multinacional proveedora de componentes de automoción Edscha, filial de la empresa española Gestamp, puso hoy la primera piedra de su nueva planta en San Luis Postosí, México. Esta nueva instalación será la sexta en el país para Gestamp. Torsten Greiner, CEO de Edscha, dio hoy inicio a la construcción de la primera planta de Edscha en México durante una ceremonia oficial.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-construira-su-sexta-planta-en-Mexico</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-construira-su-sexta-planta-en-Mexico</guid>
+      <pubDate>Wed, 22 Jun 2016 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;La multinacional proveedora de componentes de automoción Edscha, filial de la empresa española Gestamp, puso hoy la primera piedra de su nueva planta en San Luis Postosí, México. Esta nueva instalación será la sexta en el país para Gestamp. Torsten Greiner, CEO de Edscha, dio hoy inicio a la construcción de la primera planta de Edscha en México durante una ceremonia oficial.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-construira-su-sexta-planta-en-Mexico"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/k8/94b6fbf3-fdcf-46ac-afed-0a8d72577fe5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp, galardonado por su colaboración con Honda La compañía multinacional española, dedicada al diseño, desarrollo y fabricación de componentes y conjuntos metálicos para el automóvil Gestamp ha recibido junto al fabricante Honda el premio ‘Great Designs in Steel’ (GDIS) 2016, otorgado por el ‘Steel Market Development Institute’ y en el que se reconoce su estrecha colaboración en el desarrollo del Honda Civic, galardonado también como coche del año 2016 en Norteamérica.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp,-galardonado-por-su-colaboracion-con-Honda</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp,-galardonado-por-su-colaboracion-con-Honda</guid>
+      <pubDate>Wed, 11 May 2016 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;La compañía multinacional española, dedicada al diseño, desarrollo y fabricación de componentes y conjuntos metálicos para el automóvil Gestamp ha recibido junto al fabricante Honda el premio ‘Great Designs in Steel’ (GDIS) 2016, otorgado por el ‘Steel Market Development Institute’ y en el que se reconoce su estrecha colaboración en el desarrollo del Honda Civic, galardonado también como coche del año 2016 en Norteamérica.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp,-galardonado-por-su-colaboracion-con-Honda"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/k8/0630ab91-610e-4b4c-833d-71b2d52e12bc.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp acuerda emitir 500 millones de euros en bonos a 7 años al 3,5% La compañía multinacional española, dedicada al diseño, desarrollo y fabricación de componentes y conjuntos metálicos para el automóvil Gestamp ha completado satisfactoriamente el pricing de 500 millones de euros en bonos a un interés anual del 3,5%, con vencimiento en 2023. Debido a la importante demanda generada, la oferta inicial de 400 millones de euros se ha ampliado hasta los 500 millones.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-acuerda-emitir-500-millones-de-euros-en-bonos-a-7-anos-al-3,5</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-acuerda-emitir-500-millones-de-euros-en-bonos-a-7-anos-al-3,5</guid>
+      <pubDate>Wed, 04 May 2016 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;La compañía multinacional española, dedicada al diseño, desarrollo y fabricación de componentes y conjuntos metálicos para el automóvil Gestamp ha completado satisfactoriamente el pricing de 500 millones de euros en bonos a un interés anual del 3,5%, con vencimiento en 2023. Debido a la importante demanda generada, la oferta inicial de 400 millones de euros se ha ampliado hasta los 500 millones.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-acuerda-emitir-500-millones-de-euros-en-bonos-a-7-anos-al-3,5"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/k8/e4b5046b-c002-48d9-a679-7b0bbb1c1562.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Warmforming: novel concepts for efficient manufacturing in the automotive industry aiming at vehicle lightweighting Project co-financed by European Economic Area Agreement (EEA Grants): Supported by a grant from Iceland, Liechtenstein and Norway.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/Warmforming-novel-concepts-for-efficient-manufacturing-in-the-automotive-industry-aiming-at-vehicle</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/Warmforming-novel-concepts-for-efficient-manufacturing-in-the-automotive-industry-aiming-at-vehicle</guid>
+      <pubDate>Thu, 31 Dec 2015 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Project co-financed by European Economic Area Agreement (EEA Grants): Supported by a grant from Iceland, Liechtenstein and Norway.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/Warmforming-novel-concepts-for-efficient-manufacturing-in-the-automotive-industry-aiming-at-vehicle"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/k8/9a968ab1-86eb-42ed-a289-acf789f5e7f9.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp premiado por el Grupo Volkswagen como uno de sus mejores proveedores</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-premiado-por-el-Grupo-Volkswagen-como-uno-de-sus-mejores-proveedores</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-premiado-por-el-Grupo-Volkswagen-como-uno-de-sus-mejores-proveedores</guid>
+      <pubDate>Tue, 21 Jul 2015 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp ha sido premiado por el Grupo Volkswagen como uno de los 26 mejores proveedores del año. Los ganadores han sido distinguidos por su capacidad innovadora, competencia para el desarrollo, sostenibilidad y profesionalidad en la gestión de proyectos. Es la decimotercera ocasión en la que el Grupo Volkswagen ha reconocido el buen desempeño empresarial de sus mejores proveedores con el galardón ‘Volkswagen Group Award’.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-premiado-por-el-Grupo-Volkswagen-como-uno-de-sus-mejores-proveedores"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/k8/ba1961d7-ad56-40d6-95be-c5c65ef832c4.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp creció un 6,9% en 2014 hasta alcanzar los 6.256 millones de euros de facturación</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-crecio-un-6,9-en-2014-hasta-alcanzar-los-6-256-millones-de-euros-de-facturacion</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-crecio-un-6,9-en-2014-hasta-alcanzar-los-6-256-millones-de-euros-de-facturacion</guid>
+      <pubDate>Wed, 06 May 2015 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp, empresa dedicada al diseño, desarrollo y fabricación de componentes y conjuntos metálicos para el automóvil, ha presentado sus resultados referentes al año fiscal 2014, en el que creció un 6,9% hasta alcanzar los 6.256 millones de euros de facturación a cierre del ejercicio. Esto supone un incremento de los ingresos de 402,5 millones de euros respecto a 2013. Por su parte, el EBITDA aumentó en un 7,9% hasta los 656,5 millones de euros.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-crecio-un-6,9-en-2014-hasta-alcanzar-los-6-256-millones-de-euros-de-facturacion"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/k8/b77e3533-39b6-47cb-83c3-24cf46b86b80.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp recibe el Premio a la Internacionalización del Club de Exportadores Gestamp ha sido galardonado en la duodécima edición de los Premios a la Internacionalización que concede el Club de Exportadores e Inversores. La compañía ha recibido de manos del Secretario de Estado de Comercio, Jaime García-Legaz, y el Alto Comisionado del Gobierno para la Marca España, Carlos Espinosa de los Monteros, el premio a la gran empresa española con “una destacable proyección internacional”.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-recibe-el-Premio-a-la-Internacionalizacion-del-Club-de-Exportadores</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-recibe-el-Premio-a-la-Internacionalizacion-del-Club-de-Exportadores</guid>
+      <pubDate>Thu, 09 Oct 2014 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp ha sido galardonado en la duodécima edición de los Premios a la Internacionalización que concede el Club de Exportadores e Inversores. La compañía ha recibido de manos del Secretario de Estado de Comercio, Jaime García-Legaz, y el Alto Comisionado del Gobierno para la Marca España, Carlos Espinosa de los Monteros, el premio a la gran empresa española con “una destacable proyección internacional”.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-recibe-el-Premio-a-la-Internacionalizacion-del-Club-de-Exportadores"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/k8/8f61d99a-3165-46e4-b2b2-25daacb99347.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp inaugura su segunda planta en Puebla, con una inversión de 55 millones de euros</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-inaugura-su-segunda-planta-en-Puebla,-con-una-inversion-de-55-millones-de-euros</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-inaugura-su-segunda-planta-en-Puebla,-con-una-inversion-de-55-millones-de-euros</guid>
+      <pubDate>Tue, 09 Sep 2014 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;En una ceremonia presidida por el Gobernador de Puebla, Rafael Moreno Valle, junto con el Subsecretario de Industria y Comercio de la Secretaría de Economía del Gobierno Federal, Rogelio Garza Garza, el Embajador español en México, Luis Fernández-Cid de las Alas Pumariño y las autoridades municipales, la firma de origen español Gestamp, líder mundial de componentes metálicos del automóvil en carrocería, chasis y mecanismos, inauguró ayer su segunda planta en Puebla, México, cuya inversión asciende a más de 55 millones de euros.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-inaugura-su-segunda-planta-en-Puebla,-con-una-inversion-de-55-millones-de-euros"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/k8/2ee11880-99b1-41c1-8ec5-58d3979fa5d1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp refuerza su organización y crea la Dirección Corporativa de Tecnología y Medios Industriales</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-refuerza-su-organizacion-y-crea-la-Direccion-Corporativa-de-Tecnologia-y-Medios-Industriales</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-refuerza-su-organizacion-y-crea-la-Direccion-Corporativa-de-Tecnologia-y-Medios-Industriales</guid>
+      <pubDate>Sun, 12 Jan 2014 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp ha creado la Dirección de Tecnología y Medios Industriales, un nuevo área corporativa dirigida a mejorar la integración del desarrollo de productos y procesos en el campo de la carrocería (Body-in-White. El objetivo pretende optimizar la funcionalidad, calidad y competitividad en los servicios que la compañía presta a sus clientes, especialmente en sus proyectos globales, y reforzar el valor tecnológico de Gestamp en este área.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-refuerza-su-organizacion-y-crea-la-Direccion-Corporativa-de-Tecnologia-y-Medios-Industriales"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/k8/669dc6e2-de6d-4217-99ef-ffac96f1a3a7.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp Bizkaia fabricará los componentes metálicos de la nueva furgoneta de Mercedes Benz Gestamp Bizkaia, perteneciente al Grupo Gestamp, empresa líder en el diseño, desarrollo y fabricación de conjuntos metálicos para el automóvil, producirá la estampación y partes móviles de la nueva furgoneta que Mercedes Benz prevé lanzar al mercado a partir de la primavera de 2014 y que fabricará en su planta de Vitoria-Gasteiz.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-Bizkaia-fabricara-los-componentes-metalicos-de-la-nueva-furgoneta-de-Mercedes-Benz</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-Bizkaia-fabricara-los-componentes-metalicos-de-la-nueva-furgoneta-de-Mercedes-Benz</guid>
+      <pubDate>Wed, 23 Oct 2013 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp Bizkaia, perteneciente al Grupo Gestamp, empresa líder en el diseño, desarrollo y fabricación de conjuntos metálicos para el automóvil, producirá la estampación y partes móviles de la nueva furgoneta que Mercedes Benz prevé lanzar al mercado a partir de la primavera de 2014 y que fabricará en su planta de Vitoria-Gasteiz.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-Bizkaia-fabricara-los-componentes-metalicos-de-la-nueva-furgoneta-de-Mercedes-Benz"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/k8/158e5bdc-d460-4825-9519-2b545fd35579.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp y Severstal anuncian una importante ampliación de la factoría de Kaluga Gestamp, empresa líder mundial en el ámbito del diseño, el desarrollo y la fabricación de componentes y sistemas estructurales metálicos para el sector de la automoción, ha concluido el proceso de ampliación de su factoría de Kaluga (Rusia). Desde su inauguración en 2010, se han realizado inversiones en la planta por valor de 180 millones de euros (8.000 millones de rublos).</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-y-Severstal-anuncian-una-importante-ampliacion-de-la-factoria-de-Kaluga</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-y-Severstal-anuncian-una-importante-ampliacion-de-la-factoria-de-Kaluga</guid>
+      <pubDate>Wed, 18 Sep 2013 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp, empresa líder mundial en el ámbito del diseño, el desarrollo y la fabricación de componentes y sistemas estructurales metálicos para el sector de la automoción, ha concluido el proceso de ampliación de su factoría de Kaluga (Rusia). Desde su inauguración en 2010, se han realizado inversiones en la planta por valor de 180 millones de euros (8.000 millones de rublos).&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-y-Severstal-anuncian-una-importante-ampliacion-de-la-factoria-de-Kaluga"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/k8/2c8d4a42-1ea8-4d4c-bad7-3dbdbc6d90a1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La factoría china de Edscha inicia la producción Edscha, empresa dedicada a la fabricación de componentes para el automóvil, con sede en Remscheid, celebra hoy la inauguración oficial de su nueva factoría en Kunshan (China).</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/La-factoria-china-de-Edscha-inicia-la-produccion</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/La-factoria-china-de-Edscha-inicia-la-produccion</guid>
+      <pubDate>Mon, 02 Sep 2013 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Edscha, empresa dedicada a la fabricación de componentes para el automóvil, con sede en Remscheid, celebra hoy la inauguración oficial de su nueva factoría en Kunshan (China).&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/La-factoria-china-de-Edscha-inicia-la-produccion"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/k8/25be1f63-d153-41bf-9493-bd2e56573d2d.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp recibe € 297 millones de inversión dando entrada a Mitsui Como continuación del acuerdo firmado el 4 de enero de 2013, y una vez obtenidas las autorizaciones pertinentes de los organismos reguladores, Gestamp Automoción (Gestamp) y Mitsui &amp; Co Ltd han anunciado que se ha completado la inversión prevista en el perímetro americano de Gestamp.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-recibe-€-297-millones-de-inversion-dando-entrada-a-Mitsui</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-recibe-€-297-millones-de-inversion-dando-entrada-a-Mitsui</guid>
+      <pubDate>Thu, 04 Jul 2013 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Como continuación del acuerdo firmado el 4 de enero de 2013, y una vez obtenidas las autorizaciones pertinentes de los organismos reguladores, Gestamp Automoción (Gestamp) y Mitsui &amp; Co Ltd han anunciado que se ha completado la inversión prevista en el perímetro americano de Gestamp.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-recibe-€-297-millones-de-inversion-dando-entrada-a-Mitsui"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/k8/d0cc9ce3-0170-4c2d-8bed-8d5f6604d890.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gestamp anuncia sus planes de emitir bonos senior garantizados Gestamp Automoción, S.A. ("Gestamp") ha anunciado hoy que su filial Gestamp Funding Luxembourg S.A. tiene previsto emitir bonos senior garantizados, con vencimiento en 2020, por un importe aproximado de 750 millones de euros.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-anuncia-sus-planes-de-emitir-bonos-senior-garantizados</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-anuncia-sus-planes-de-emitir-bonos-senior-garantizados</guid>
+      <pubDate>Sun, 21 Apr 2013 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Gestamp Automoción, S.A. ("Gestamp") ha anunciado hoy que su filial Gestamp Funding Luxembourg S.A. tiene previsto emitir bonos senior garantizados, con vencimiento en 2020, por un importe aproximado de 750 millones de euros.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/Gestamp-anuncia-sus-planes-de-emitir-bonos-senior-garantizados"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/k8/0f830c70-2d9b-4650-8d67-4159635af4ab.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Francisco J. Riberas recibe el premio al Espíritu de Empresa de la Cámara de Comercio Franco-Español La Cámara Franco-Española de Comercio de Industria - La Chambre – entregó el Premio al Espíritu de Empresa a Francisco J. Riberas Mera, Presidente de Corporación Gestamp y Gestamp Automoción, durante su Cena de Gala en el Hotel Westin Palace el 28 de noviembre.</title>
+      <link>https://www.gestamp.com/Medios/Noticias/Noticias/Francisco-J-Riberas-recibe-el-premio-al-Espiritu-de-Empresa-de-la-Camara-de-Comercio-Franco-Espanol</link>
+      <guid isPermaLink="true">https://www.gestamp.com/Medios/Noticias/Noticias/Francisco-J-Riberas-recibe-el-premio-al-Espiritu-de-Empresa-de-la-Camara-de-Comercio-Franco-Espanol</guid>
+      <pubDate>Mon, 29 Oct 2012 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;La Cámara Franco-Española de Comercio de Industria - La Chambre – entregó el Premio al Espíritu de Empresa a Francisco J. Riberas Mera, Presidente de Corporación Gestamp y Gestamp Automoción, durante su Cena de Gala en el Hotel Westin Palace el 28 de noviembre.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Origen:&lt;/strong&gt; Sección de prensa de Gestamp&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.gestamp.com/Medios/Noticias/Noticias/Francisco-J-Riberas-recibe-el-premio-al-Espiritu-de-Empresa-de-la-Camara-de-Comercio-Franco-Espanol"&gt;Leer la noticia completa en Gestamp&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Gestamp</author>
+      <category>Gestamp</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.gestamp.com/Gestamp11/media/News/k8/d5efc5e7-1a85-4f14-8b10-a09fce91a867.jpg" type="image/jpeg" />
+    </item>
   </channel>
 </rss>
